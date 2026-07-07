@@ -1,0 +1,2 @@
+# 占位文件：保留 content/ 目录骨架，让 scripts/generate-content-manifest.mjs 能正常扫描生成空清单。
+# 实际内容目录由后续 part（导航分类与文章接入）按 routing.ts locales 重建。
