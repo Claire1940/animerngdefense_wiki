@@ -1,11 +1,643 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki Anime RNG Defense - Kode, Unit & Tier List",
+      "description": "Wiki Anime RNG Defense dengan kode, roll unit, trait, map, build tim, upgrade, tier list, tips pemula, dan catatan pembaruan untuk pemain Roblox.",
+      "keywords": "Anime RNG Defense, Roblox, kode, unit, tier list, trait, map, build tim",
+      "ogTitle": "Wiki Anime RNG Defense - Kode, Unit & Tier List",
+      "ogDescription": "Wiki Anime RNG Defense dengan kode, roll unit, trait, map, build tim, upgrade, tier list, tips pemula, dan catatan pembaruan untuk pemain Roblox.",
+      "twitterTitle": "Wiki Anime RNG Defense - Kode, Unit & Tier List",
+      "twitterDescription": "Roll unit, pertahankan basemu, dan taklukkan setiap map di Anime RNG Defense di Roblox. Kode, tier list, build, dan tips pemula."
+    }
+  },
   "nav": {
     "codes": "Kode",
     "guide": "Panduan",
     "units": "Unit",
-    "tiers": "Tiers",
+    "tiers": "Tier",
     "reroll": "Reroll",
     "items": "Item",
     "progression": "Progresi"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Main di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Switch Theme",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel akan segera hadir"
+  },
+  "hero": {
+    "badge": "Roblox Anime RNG Tower Defense",
+    "title": "Wiki Anime RNG Defense",
+    "description": "Roll unit bergaya anime, pertahankan basemu, kalahkan gelombang musuh, upgrade timmu, tingkatkan keberuntungan, dan bangun lineup terkuat di setiap map.",
+    "getFreeCodesCTA": "Dapatkan Kode Gratis",
+    "playOnRobloxCTA": "Main di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "210,7K+",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "1,6K+",
+        "label": "Pemain Online"
+      },
+      "stat3": {
+        "value": "RILIS",
+        "label": "Kode Resmi"
+      },
+      "stat4": {
+        "value": "5 Jul 2026",
+        "label": "Update Terbaru"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Anime RNG Defense",
+    "description": "Roll unit bergaya anime, tempatkan defender, selesaikan gelombang musuh, tingkatkan timmu, tingkatkan keberuntungan, dan pertahankan markasmu di setiap peta dalam game anime RNG tower defense Roblox ini."
+  },
+  "tools": {
+    "title": "Anime RNG Defense",
+    "titleHighlight": "Sumber Daya",
+    "subtitle": "Segala yang kamu butuhkan untuk roll, bertahan, dan menaklukkan setiap peta di Anime RNG Defense",
+    "cards": [
+      {
+        "icon": "Tiket",
+        "title": "Kode Anime RNG Defense",
+        "description": "Kode aktif, hadiah, dan langkah penukaran tercepat"
+      },
+      {
+        "icon": "Topi Wisuda",
+        "title": "Panduan Pemula Anime RNG Defense",
+        "description": "Roll unit, tempatkan defender, selesaikan gelombang, dan tingkatkan"
+      },
+      {
+        "icon": "Mahkota",
+        "title": "Tier List Unit Anime RNG Defense",
+        "description": "Urutan unit berdasarkan kekuatan penyelesaian gelombang dan nilai progres"
+      },
+      {
+        "icon": "Kotak",
+        "title": "Unit & Kelangkaan Anime RNG Defense",
+        "description": "Bagaimana rolling, Kotak, Crystal, dan kelangkaan membentuk barisanmu"
+      },
+      {
+        "icon": "Peta",
+        "title": "Panduan Peta Anime RNG Defense",
+        "description": "Masuki peta, baca jalur musuh, dan lindungi markasmu"
+      },
+      {
+        "icon": "Target",
+        "title": "Tim Terbaik Anime RNG Defense",
+        "description": "Bangun barisan yang lebih kuat dengan unit langka dan penempatan yang cerdas"
+      },
+      {
+        "icon": "Dadu",
+        "title": "Panduan Keberuntungan Anime RNG Defense",
+        "description": "Rolling, peningkatan keberuntungan, dan mengejar unit anime yang lebih langka"
+      },
+      {
+        "icon": "Lonceng",
+        "title": "Update Anime RNG Defense",
+        "description": "Tag update, rilis kode, hadiah grup, dan tautan komunitas"
+      }
+    ]
+  },
+  "modules": {
+    "animeRngDefenseCodes": {
+      "eyebrow": "Hadiah Gratis",
+      "title": "Kode Anime RNG Defense",
+      "subtitle": "Tukarkan kode Anime RNG Defense yang aktif untuk mendapatkan Crystal, Common Box, Rare Box, Epic Box, Cursed Finger, dan hadiah gratis lainnya.",
+      "intro": "Kode adalah cara tercepat untuk memulai dengan lebih kuat di Anime RNG Defense. Gunakan kode tersebut sebelum melakukan banyak rolling, karena Crystal dan Box membantumu membuka lebih banyak unit bergaya anime dan membangun barisan pertahanan yang lebih baik dengan lebih cepat.",
+      "displayType": "code-cards",
+      "items": [
+        {
+          "code": "TYFORSUPPORT1",
+          "status": "aktif",
+          "reward": "Hadiah Gratis",
+          "requirement": "Membutuhkan setidaknya 10.000 Roll",
+          "bestFor": "Pemain berpengalaman yang sudah memiliki jumlah roll yang besar"
+        },
+        {
+          "code": "UPDATE2",
+          "status": "aktif",
+          "reward": "250 Kristal",
+          "requirement": "Tidak ada yang terdaftar",
+          "bestFor": "Roll ekstra dan progresi awal yang lebih cepat"
+        },
+        {
+          "code": "CURSEDHIGHSCHOOL",
+          "status": "aktif",
+          "reward": "200 Kristal dan 3 Jari Terkutuk",
+          "requirement": "Tidak ada yang terdaftar",
+          "bestFor": "Hadiah bergaya event dan progresi bertema JJK"
+        },
+        {
+          "code": "INNOVATIONCITY",
+          "status": "aktif",
+          "reward": "200 Kristal, 10 Box Biasa, 5 Box Langka, dan 3 Box Epik",
+          "requirement": "Tidak ada yang terdaftar",
+          "bestFor": "Bundel hadiah pemula serbaguna terbaik"
+        },
+        {
+          "code": "UPDATE1",
+          "status": "aktif",
+          "reward": "250 Kristal",
+          "requirement": "Tidak ada yang terdaftar",
+          "bestFor": "Lebih banyak roll setelah update pertama"
+        },
+        {
+          "code": "RELEASE",
+          "status": "aktif",
+          "reward": "250 Kristal dan 5 Box Biasa",
+          "requirement": "Tidak ada yang terdaftar",
+          "bestFor": "Pemain baru yang memulai lineup pertama mereka"
+        }
+      ]
+    },
+    "animeRngDefenseBeginnerGuide": {
+      "eyebrow": "Panduan Pemula",
+      "title": "Panduan Pemula Anime RNG Defense",
+      "subtitle": "Pelajari siklus inti: klaim kode, roll unit, tempatkan defender, selesaikan wave, tingkatkan tim Anda, dan lindungi base.",
+      "intro": "Anime RNG Defense memadukan roll unit berbasis keberuntungan dengan strategi tower defense. Tujuan dasarnya sederhana: dapatkan unit, tempatkan dengan baik, bertahan dari wave musuh, dan terus tingkatkan hingga lineup Anda dapat menyelesaikan map yang lebih sulit.",
+      "displayType": "langkah-demi-langkah",
+      "items": [
+        {
+          "step": 1,
+          "title": "Klaim kode terlebih dahulu",
+          "description": "Mulailah dengan kode seperti RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY, dan CURSEDHIGHSCHOOL untuk mengumpulkan Kristal, Box, dan hadiah event sebelum menghabiskan waktu untuk melakukan roll.",
+          "tip": "Gunakan hadiah kode sebelum melakukan grinding agar lineup pertama Anda terbentuk lebih cepat."
+        },
+        {
+          "step": 2,
+          "title": "Roll untuk unit bergaya anime",
+          "description": "Game ini menggunakan roll RNG untuk membuka unit. Keberuntungan yang lebih baik dan box hadiah yang lebih baik memberi Anda lebih banyak peluang untuk mendapatkan defender yang lebih kuat.",
+          "tip": "Jangan menilai lineup hanya dari kelangkaannya saja; pembersihan wave dan nilai penempatan juga penting."
+        },
+        {
+          "step": 3,
+          "title": "Masuki map dan selesaikan wave musuh",
+          "description": "Setelah membangun tim pemula, masuki map dan fokuslah untuk menyelesaikan wave sambil melindungi base Anda dari musuh.",
+          "tip": "Tempatkan unit damage paling andal Anda di mana mereka dapat menyerang musuh dalam waktu terlama."
+        },
+        {
+          "step": 4,
+          "title": "Tingkatkan tim Anda selama pertempuran",
+          "description": "Upgrade membuat unit Anda lebih kuat dalam pertempuran, membantu mereka menghadapi wave berikutnya dan musuh yang lebih sulit.",
+          "tip": "Tingkatkan unit inti terlebih dahulu alih-alih menyebarkan sumber daya pada unit sementara yang lemah."
+        },
+        {
+          "step": 5,
+          "title": "Tingkatkan keberuntungan sebelum melakukan rolling serius",
+          "description": "Peningkat keberuntungan meningkatkan peluang Anda untuk mendapatkan unit yang lebih langka, yang penting karena setiap roll dapat mengubah pertahanan Anda.",
+          "tip": "Gunakan boost saat Anda siap melakukan rolling berkali-kali, bukan untuk satu atau dua pull acak."
+        },
+        {
+          "step": 6,
+          "title": "Susun lineup yang seimbang",
+          "description": "Tim yang baik harus memiliki unit yang dapat membersihkan kelompok musuh, memberikan damage besar, dan menahan wave cukup lama untuk melindungi base.",
+          "tip": "Ganti unit yang lemah segera setelah Anda mendapatkan opsi unit dengan kelangkaan atau damage yang lebih baik."
+        }
+      ]
+    },
+    "animeRngDefenseUnitTierList": {
+      "eyebrow": "Unit Terbaik",
+      "title": "Tier List Unit Anime RNG Defense",
+      "subtitle": "Urutkan unit berdasarkan nilai praktis: kekuatan pembersihan wave, nilai kelangkaan, efisiensi upgrade, dan seberapa besar kontribusinya terhadap progres.",
+      "intro": "Unit Anime RNG Defense terkuat adalah unit yang membantu Anda membersihkan wave secara konsisten, bukan hanya hasil pull yang terlihat paling langka. Prioritaskan unit yang menjangkau jalur panjang, membasmi kelompok musuh, berskala baik dengan upgrade, atau membawa tim Anda melewati map baru.",
+      "displayType": "tier-grid",
+      "items": [
+        {
+          "tier": "S",
+          "label": "Unit progres terbaik",
+          "unitType": "Damage dealer kelangkaan tinggi dan pembersih wave yang kuat",
+          "whyItRanksHere": "Ini adalah hasil pull paling berharga karena dapat membawa tim di map early dan mid-game, menangani wave yang lebih besar, dan layak mendapatkan prioritas upgrade pertama Anda.",
+          "bestUse": "Slot carry utama, prioritas upgrade pertama, percobaan map yang lebih sulit"
+        },
+        {
+          "tier": "A",
+          "label": "Unit lineup yang kuat",
+          "unitType": "Unit Rare dan Epic Box dengan damage yang andal atau jangkauan yang luas",
+          "whyItRanksHere": "Unit-unit ini cukup kuat untuk tetap berada di lineup aktif Anda selagi Anda terus melakukan rolling untuk mendapatkan opsi yang lebih baik.",
+          "bestUse": "Slot pertahanan inti, carry cadangan, pembersihan wave yang stabil"
+        },
+        {
+          "tier": "B",
+          "label": "Unit pemula yang bagus",
+          "unitType": "Unit Common Box dan roll awal dengan damage yang berguna",
+          "whyItRanksHere": "Unit-unit ini berguna di awal, terutama setelah menukarkan kode RELEASE atau INNOVATIONCITY, tetapi harus diganti ketika mendapatkan pull yang lebih kuat.",
+          "bestUse": "Map pertama, pertahanan wave awal, pengisi tim sementara"
+        },
+        {
+          "tier": "C",
+          "label": "Unit prioritas rendah",
+          "unitType": "Pull duplikat atau unit awal yang lemah dengan scaling yang buruk",
+          "whyItRanksHere": "Unit-unit ini dapat membantu mengisi slot kosong, tetapi tidak layak untuk di-upgrade secara besar-besaran setelah Anda memiliki opsi Rare atau Epic.",
+          "bestUse": "Hanya untuk penempatan jangka pendek"
+        }
+      ]
+    },
+    "animeRngDefenseUnitsAndRarities": {
+      "eyebrow": "Unit & Kelangkaan",
+      "title": "Unit dan Kelangkaan Anime RNG Defense",
+      "subtitle": "Pahami bagaimana rolling, Box, Crystal, dan kelangkaan bekerja bersama saat membangun tim pertahanan Anda.",
+      "intro": "Anime RNG Defense dibangun di sekitar sistem rolling untuk mendapatkan unit bergaya anime, lalu menggunakan unit tersebut untuk membersihkan wave dan mempertahankan base Anda. Unit yang lebih langka itu penting karena biasanya memberikan nilai progres yang lebih baik, tetapi lineup terbaik tetap bergantung pada penempatan, upgrade, dan kekuatan pembersihan wave.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "name": "Crystal",
+          "type": "Mata uang hadiah utama",
+          "howToGet": "Tersedia dari kode seperti RELEASE, UPDATE1, UPDATE2, CURSEDHIGHSCHOOL, dan INNOVATIONCITY",
+          "whyItMatters": "Crystal membantu pemain berprogres lebih cepat dengan memberikan lebih banyak sumber daya untuk siklus rolling dan hadiah.",
+          "playerTip": "Tukarkan kode Crystal sebelum melakukan sesi roll yang lebih lama."
+        },
+        {
+          "name": "Common Boxes",
+          "type": "Kotak hadiah pemula",
+          "howToGet": "Tersedia dari RELEASE dan INNOVATIONCITY",
+          "whyItMatters": "Common Boxes berguna untuk mengisi slot tim pertama Anda dan mendapatkan defender awal dengan cepat.",
+          "playerTip": "Gunakan unit Common Box sebagai starter sementara, lalu ganti tarikan yang lebih lemah saat rarity Anda meningkat."
+        },
+        {
+          "name": "Rare Boxes",
+          "type": "Kotak hadiah bernilai menengah",
+          "howToGet": "Tersedia dari INNOVATIONCITY",
+          "whyItMatters": "Rare Boxes memberikan potensi lineup yang lebih baik daripada hadiah pemula dasar dan berguna untuk progresi map awal.",
+          "playerTip": "Prioritaskan tarikan Rare Box yang meningkatkan pembersihan wave atau damage target tunggal."
+        },
+        {
+          "name": "Epic Boxes",
+          "type": "Kotak hadiah bernilai tinggi",
+          "howToGet": "Tersedia dari INNOVATIONCITY",
+          "whyItMatters": "Epic Boxes adalah hadiah kotak paling penting yang tercantum dalam hadiah kode saat ini dan harus diperiksa terlebih dahulu saat meningkatkan tim Anda.",
+          "playerTip": "Tingkatkan carry kualitas Epic sebelum menghabiskan banyak biaya pada unit yang lebih lemah."
+        },
+        {
+          "name": "Cursed Fingers",
+          "type": "Item hadiah gaya event",
+          "howToGet": "Tersedia dari CURSEDHIGHSCHOOL",
+          "whyItMatters": "Cursed Fingers terikat dengan pool hadiah bertema JJK saat ini dan berguna untuk progresi event.",
+          "playerTip": "Klaim CURSEDHIGHSCHOOL sebelum fokus pada konten update JJK."
+        },
+        {
+          "name": "Unit yang Lebih Langka",
+          "type": "Tujuan progresi utama",
+          "howToGet": "Roll unit dan tingkatkan luck untuk peluang lebih baik mendapatkan tarikan yang lebih kuat",
+          "whyItMatters": "Unit yang lebih langka dapat mengubah pertahanan Anda dan membantu Anda membersihkan wave musuh yang lebih sulit.",
+          "playerTip": "Gunakan luck boost sebelum sesi rolling besar untuk meningkatkan peluang Anda mendapatkan unit yang lebih kuat."
+        }
+      ]
+    },
+    "animeRngDefenseMapsAndWaves": {
+      "eyebrow": "Map & Wave",
+      "title": "Panduan Map dan Wave Anime RNG Defense",
+      "subtitle": "Masuki map, bersihkan wave musuh, dan jaga base Anda tetap hidup. Panduan ini menjelaskan siklus stage dasar yang harus diikuti pemain sebelum mencoba map yang lebih sulit.",
+      "intro": "Anime RNG Defense menggunakan siklus tower-defense: roll untuk unit gaya anime, masuki map, tempatkan defender, bersihkan wave, tingkatkan tim Anda, dan lindungi base sampai stage selesai.",
+      "displayType": "langkah demi langkah",
+      "items": [
+        {
+          "step": 1,
+          "title": "Siapkan Unit Anda Sebelum Masuk",
+          "description": "Roll untuk membuka unit gaya anime sebelum memulai map. Roster yang lebih kuat memberi Anda lebih banyak opsi saat musuh mulai bergerak menuju base.",
+          "goal": "Siapkan defender yang cukup sebelum wave pertama dimulai."
+        },
+        {
+          "step": 2,
+          "title": "Masuki Map dan Perhatikan Jalur Musuh",
+          "description": "Map yang berbeda adalah bagian dari siklus progresi inti. Setelah memasuki map, periksa ke mana musuh berjalan dan tempatkan unit pertama Anda di tempat mereka dapat menyerang paling lama.",
+          "goal": "Gunakan tata letak jalur untuk mendapatkan nilai lebih dari setiap unit yang ditempatkan."
+        },
+        {
+          "step": 3,
+          "title": "Bersihkan Wave Tanpa Membiarkan Musuh Mencapai Base",
+          "description": "Setiap stage mengirimkan wave musuh ke arah base Anda. Tujuan utamanya adalah mengalahkan musuh sebelum terlalu banyak yang melewati pertahanan Anda.",
+          "goal": "Lindungi base sambil bertahan di setiap wave."
+        },
+        {
+          "step": 4,
+          "title": "Upgrade Selama Pertempuran",
+          "description": "Meningkatkan tim membuat unit lebih kuat dalam pertempuran. Gunakan upgrade saat damage saat ini tidak cukup untuk menghentikan wave berikutnya.",
+          "goal": "Ubah unit awal menjadi alat wave-clear yang lebih kuat."
+        },
+        {
+          "step": 5,
+          "title": "Ulangi Map dengan Roll yang Lebih Baik",
+          "description": "Setiap roll dapat mengubah pertahananmu. Jika map terasa terlalu sulit, kembalilah dengan unit yang lebih langka, upgrade yang lebih baik, dan susunan tim yang lebih kuat.",
+          "goal": "Gunakan progres RNG dan upgrade tim untuk menaklukkan map yang lebih sulit."
+        }
+      ]
+    },
+    "animeRngDefenseBestTeamBuild": {
+      "eyebrow": "Build Tim",
+      "title": "Build Tim Terbaik Anime RNG Defense",
+      "subtitle": "Bangun susunan tim yang lebih kuat dengan menggabungkan unit langka, unit yang di-upgrade, dan penempatan yang cerdas. Tim terbaik bukan hanya tentang kelangkaan; ia juga membutuhkan damage dan jangkauan map yang cukup.",
+      "intro": "Anime RNG Defense dibangun di sekitar unit roll dan menggunakan strategi untuk memenangkan pertempuran. Tim yang baik harus mencakup unit terlangka yang kamu miliki, defender yang di-upgrade, dan penempatan yang melindungi base dari setiap wave.",
+      "displayType": "daftar kartu",
+      "items": [
+        {
+          "title": "Inti Unit Langka",
+          "role": "Damage utama",
+          "description": "Gunakan unit hasil roll terlangkamu sebagai pusat tim. Luck boost membantumu mendapatkan unit yang lebih kuat, dan pull langka biasanya memberikan potensi jangka panjang yang lebih baik bagi susunan timmu.",
+          "bestFor": "Wave yang lebih sulit dan dorongan map yang lebih kuat"
+        },
+        {
+          "title": "Slot Defender yang Di-upgrade",
+          "role": "Wave clear yang andal",
+          "description": "Pertahankan unit yang di-upgrade dalam susunan tim bahkan jika itu bukan pull terbarumu. Unit yang diperkuat sering kali dapat tampil lebih baik daripada unit baru tanpa upgrade.",
+          "bestFor": "Pembersihan yang stabil dan wave awal yang lebih aman"
+        },
+        {
+          "title": "Unit Penempatan Awal",
+          "role": "Kontrol wave pertama",
+          "description": "Tempatkan unit yang dapat diandalkan sejak awal agar musuh tidak mencapai base selagi kamu mempersiapkan defender yang lebih kuat. Kontrol awal memberikan waktu bagi sisa timmu untuk berkembang.",
+          "bestFor": "Wave pembuka dan perlindungan base"
+        },
+        {
+          "title": "Setup Damage Jalur Panjang",
+          "role": "Efisiensi map",
+          "description": "Tempatkan unit di area di mana musuh berada dalam jangkauan lebih lama. Penempatan yang baik dapat membuat unit yang sama menghasilkan total damage yang lebih besar di sepanjang wave.",
+          "bestFor": "Map dengan jalur berliku atau rute musuh yang lebih panjang"
+        },
+        {
+          "title": "Rencana Prioritas Upgrade",
+          "role": "Penskalaan kekuatan",
+          "description": "Upgrade unit yang sudah menopang pertahanan daripada membagi sumber daya terlalu tipis. Upgrade terfokus membantu defender terbaikmu menangani wave berikutnya.",
+          "bestFor": "Progres yang konsisten"
+        },
+        {
+          "title": "Slot Peningkatan Reroll",
+          "role": "Pertumbuhan tim",
+          "description": "Terus lakukan roll untuk mendapatkan unit bergaya anime yang lebih baik saat timmu saat ini mulai kesulitan. Satu pull yang kuat dapat mengubah pertahananmu dan membuat map yang sulit menjadi lebih mudah.",
+          "bestFor": "Mengganti unit yang lemah seiring waktu"
+        }
+      ]
+    },
+    "animeRngDefenseLuckAndRolling": {
+      "eyebrow": "Keberuntungan & Rolling",
+      "title": "Panduan Keberuntungan dan Rolling Anime RNG Defense",
+      "subtitle": "Rolling adalah salah satu cara utama untuk membuka unit yang lebih kuat. Luck boost sangat penting karena meningkatkan peluangmu untuk mendapatkan unit yang lebih langka untuk pertempuran yang lebih sulit.",
+      "intro": "Anime RNG Defense memadukan strategi RNG dan tower defense. Pemain melakukan roll untuk membuka unit bergaya anime, meningkatkan luck untuk mendapatkan unit yang lebih langka, lalu menggunakan unit tersebut untuk mempertahankan map dan mengalahkan wave.",
+      "displayType": "akordeon",
+      "items": [
+        {
+          "question": "Apa fungsi melakukan roll di Anime RNG Defense?",
+          "answer": "Melakukan roll membuka unit bergaya anime. Unit-unit ini menjadi inti dari pertahananmu, jadi melakukan roll adalah cara utama untuk meningkatkan timmu seiring waktu."
+        },
+        {
+          "question": "Mengapa keberuntungan itu penting?",
+          "answer": "Peningkatan keberuntungan membantu pemain mendapatkan unit yang lebih langka. Karena unit yang lebih langka dapat meningkatkan susunan timmu, keberuntungan sangat berguna saat timmu saat ini mulai kesulitan melawan gelombang musuh yang lebih sulit."
+        },
+        {
+          "question": "Kapan pemain harus melakukan roll lebih banyak?",
+          "answer": "Lakukan roll lebih banyak saat unitmu saat ini tidak bisa membersihkan gelombang musuh dengan cukup cepat, saat musuh terus mencapai basemu, atau saat kamu membutuhkan pilihan yang lebih kuat sebelum memasuki peta yang lebih sulit."
+        },
+        {
+          "question": "Kapan pemain harus melakukan upgrade alih-alih melakukan roll?",
+          "answer": "Lakukan upgrade saat kamu sudah menempatkan unit yang berguna dan membutuhkan lebih banyak kekuatan tempur segera. Melakukan roll meningkatkan daftar unitmu, sedangkan melakukan upgrade membuat timmu saat ini menjadi lebih kuat selama pertempuran."
+        },
+        {
+          "question": "Bagaimana hubungan antara melakukan roll dengan progresi peta?",
+          "answer": "Setiap roll dapat mengubah pertahananmu. Unit yang lebih baik memudahkanmu untuk membersihkan gelombang musuh, melindungi base, dan menaklukkan lebih banyak peta."
+        },
+        {
+          "question": "Kode pemula apa yang harus diperiksa oleh pemain?",
+          "answer": "Pemain dapat menggunakan kode RELEASE dari deskripsi resmi game Roblox. Hadiah kode dapat membantu pemain baru mulai berprogres lebih cepat."
+        }
+      ]
+    },
+    "animeRngDefenseUpdatesAndDiscord": {
+      "eyebrow": "Pembaruan & Komunitas",
+      "title": "Pembaruan dan Discord Anime RNG Defense",
+      "subtitle": "Pantau tag pembaruan, pembagian kode, hadiah grup, dan tautan komunitas resmi. Pemain yang kembali bermain harus memeriksa bagian ini untuk melihat hadiah baru dan perubahan game.",
+      "intro": "Halaman resmi Roblox Anime RNG Defense mencantumkan judul game saat ini, informasi kode, pengingat hadiah grup, perangkat yang didukung, dan tautan komunitas. Pemain harus menggunakan halaman Roblox, grup Mera, dan undangan Discord sebagai sumber utama untuk pembaruan.",
+      "displayType": "akordeon",
+      "items": [
+        {
+          "question": "Apa judul halaman game resmi saat ini?",
+          "answer": "Judul halaman resmi Roblox adalah [JJK⛩️] Anime RNG Defense, menunjukkan bahwa halaman game tersebut menggunakan tag pembaruan yang aktif."
+        },
+        {
+          "question": "Kode aktif apa yang ditampilkan di halaman resmi Roblox?",
+          "answer": "Deskripsi resmi Roblox menampilkan kode RELEASE."
+        },
+        {
+          "question": "Di mana pemain harus mencari kode lainnya?",
+          "answer": "Deskripsi resmi game memberi tahu pemain untuk bergabung dengan grup demi mendapatkan hadiah, pembaruan, dan lebih banyak kode. Komunitas Roblox Mera dan undangan Discord Anime RNG Defense adalah tautan komunitas utama."
+        },
+        {
+          "question": "Hadiah apa saja yang disebutkan di halaman resmi?",
+          "answer": "Halaman resmi menyebutkan hadiah grup, pembaruan, dan lebih banyak kode. Pemain harus memeriksa grup Roblox dan Discord saat pembaruan baru tiba."
+        },
+        {
+          "question": "Platform apa saja yang didukung oleh Anime RNG Defense?",
+          "answer": "Deskripsi resmi Roblox menyatakan bahwa game ini tersedia di Desktop, Seluler, Tablet, dan Konsol."
+        },
+        {
+          "question": "Apa yang harus diperiksa pertama kali oleh pemain yang kembali bermain?",
+          "answer": "Pemain yang kembali bermain harus memeriksa halaman game Roblox untuk melihat tag judul terbaru, kode saat ini, grup Mera untuk mendapatkan hadiah, dan undangan Discord untuk pembaruan komunitas."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering",
+    "titleHighlight": "Diajukan",
+    "subtitle": "Semua yang perlu kamu ketahui tentang Anime RNG Defense",
+    "questions": [
+      {
+        "question": "Apa itu Anime RNG Defense?",
+        "answer": "Anime RNG Defense adalah game tower defense RNG anime di Roblox. Kamu melakukan roll untuk mendapatkan unit bergaya anime, menempatkannya sebagai unit pertahanan, membersihkan gelombang musuh, meningkatkan timmu, dan melindungi basemu di berbagai peta."
+      },
+      {
+        "question": "Bagaimana cara menukarkan kode di Anime RNG Defense?",
+        "answer": "Untuk menukarkan kode di Anime RNG Defense, buka game, temukan menu penukaran kode, masukkan kode aktif seperti RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY, atau CURSEDHIGHSCHOOL, dan klaim Crystal, Box, dan hadiah event milikmu."
+      },
+      {
+        "question": "Untuk apa Crystal dan Box digunakan di Anime RNG Defense?",
+        "answer": "Di Anime RNG Defense, Crystal dan Box berasal dari kode dan hadiah. Keduanya membantumu melakukan roll lebih banyak unit bergaya anime dan membangun susunan pertahanan yang lebih kuat dengan lebih cepat, jadi tukarkan kode sebelum mulai serius melakukan roll."
+      },
+      {
+        "question": "Bagaimana cara kerja roll dan keberuntungan di Anime RNG Defense?",
+        "answer": "Rolling adalah cara utama untuk membuka unit di Anime RNG Defense. Luck boost meningkatkan peluang Anda untuk mendapatkan unit yang lebih langka, yang penting saat tim Anda saat ini mulai kesulitan melawan wave yang lebih sulit."
+      },
+      {
+        "question": "Apa cara terbaik untuk membangun tim di Anime RNG Defense?",
+        "answer": "Tim Anime RNG Defense terbaik menggabungkan unit hasil roll terlangka Anda, defender yang telah di-upgrade, dan penempatan yang cerdas. Fokuskan damage di tempat musuh berada dalam jangkauan paling lama, dan upgrade core carry sebelum membagi sumber daya."
+      },
+      {
+        "question": "Di mana saya bisa bermain Anime RNG Defense dan mendapatkan pembaruan?",
+        "answer": "Anda dapat memainkan Anime RNG Defense di halaman game resmi Roblox. Untuk kode baru, tag pembaruan, dan hadiah grup, periksa halaman game Roblox, grup Mera, dan undangan Discord resmi."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Mempertahankan Base Anda?",
+    "description": "Tonton gameplay Anime RNG Defense dan langsung beraksi di Roblox. Roll unit, upgrade luck Anda, dan selesaikan setiap map!",
+    "joinCommunity": "Tonton Gameplay",
+    "joinGame": "Main di Roblox"
+  },
+  "footer": {
+    "title": "Wiki Anime RNG Defense",
+    "description": "Hub sumber daya lengkap Anda untuk kode Anime RNG Defense, unit, tier list, map, build, dan tips pemula untuk pemain Roblox.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "roblox": "Main di Roblox",
+    "youtube": "Tonton Gameplay",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Anime RNG Defense Wiki. Tidak berafiliasi dengan pengembang Anime RNG Defense atau Roblox Corporation.",
+    "disclaimer": "Situs web sumber daya tidak resmi buatan penggemar."
+  },
+  "pages": {
+    "codes": {
+      "title": "Kode Anime RNG Defense",
+      "description": "Kode Anime RNG Defense terbaru yang masih berfungsi untuk Crystal, Box, dan Cursed Finger gratis. Diperbarui setiap hari dengan kode terverifikasi dan langkah-langkah penukaran.",
+      "metaTitle": "Kode Anime RNG Defense - Crystal & Hadiah Gratis",
+      "metaDescription": "Tukarkan kode Anime RNG Defense terbaru untuk Crystal, Box unit, dan item event gratis. Diperbarui setiap hari, kode terverifikasi berfungsi dengan langkah-langkah penukaran.",
+      "categoryLabel": "TUKARKAN KODE",
+      "whatIs": "Apa Itu Kode Anime RNG Defense?",
+      "whatIsDescription": "Kode Anime RNG Defense adalah kode penukaran yang dirilis pengembang yang memberikan Crystal, Box unit, Cursed Finger, dan item event gratis. Kode baru rilis selama pembaruan, pencapaian, dan event komunitas, memberi Anda sumber daya gratis untuk melakukan roll unit gaya anime yang lebih kuat.",
+      "why": "Mengapa Menggunakan Kode Ini?",
+      "whySteps": {
+        "step1Title": "Crystal Gratis untuk Roll",
+        "step1Description": "Setiap kode aktif memberikan Crystal yang dapat Anda gunakan untuk roll unit tanpa perlu grinding, meningkatkan dorongan luck awal Anda untuk mendapatkan defender dengan kelangkaan tinggi.",
+        "step2Title": "Box dan Item Event",
+        "step2Description": "Kode memberikan berbagai tingkat Box unit dan Cursed Finger yang mempercepat pembangunan koleksi dan progres map.",
+        "step3Title": "Diperbarui Setiap Hari dan Terverifikasi",
+        "step3Description": "Kami memperbarui daftar kode setiap hari, menghapus kode yang kedaluwarsa, dan mengonfirmasi bahwa masing-masing berfungsi sehingga Anda tidak akan menyia-nyiakan upaya penukaran."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Kode"
+    },
+    "guide": {
+      "title": "Panduan Anime RNG Defense",
+      "description": "Panduan Anime RNG Defense lengkap untuk pemula dan profesional: langkah awal, roll awal, pertahanan base, leveling, uang, dan penyelesaian dunia.",
+      "metaTitle": "Panduan Anime RNG Defense - Walkthrough dari Pemula ke Pro",
+      "metaDescription": "Kuasai Anime RNG Defense dengan panduan pemula, roll early-game, strategi pertahanan base, leveling, farming uang, dan walkthrough setiap world.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa Itu Panduan Anime RNG Defense?",
+      "whatIsDescription": "Panduan ini akan menuntun Anda melalui setiap tahap Anime RNG Defense, mulai dari roll unit pertama dan dasar pertahanan base hingga farming uang tingkat lanjut dan penyelesaian world. Ikuti roadmap yang sesuai dengan level Anda untuk membangun jajaran defender yang kuat dengan cepat.",
+      "why": "Mengapa Mengikuti Panduan Ini?",
+      "whySteps": {
+        "step1Title": "Satu Jam Pertama yang Kuat",
+        "step1Description": "Panduan pemula menunjukkan unit mana yang harus di-roll, di mana menempatkannya, dan cara bertahan dari wave awal tanpa membuang-buang Crystals.",
+        "step2Title": "Leveling dan Uang Lebih Cepat",
+        "step2Description": "Panduan khusus leveling dan uang membantu Anda farming sumber daya secara efisien sehingga Anda bisa membeli upgrade dan roll langka lebih cepat.",
+        "step3Title": "Selesaikan Setiap World",
+        "step3Description": "Walkthrough setiap world mencakup wave musuh, hadiah stage, dan susunan unit yang dapat menyelesaikan setiap map dengan andal."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Panduan"
+    },
+    "units": {
+      "title": "Unit Anime RNG Defense",
+      "description": "Jelajahi setiap unit Anime RNG Defense: rarity, role, statistik dasar, dan metode buka kunci untuk karakter divine, rare, dan OP.",
+      "metaTitle": "Unit Anime RNG Defense - Semua Karakter, Rarity & Statistik",
+      "metaDescription": "Daftar lengkap unit Anime RNG Defense dengan rarity, role, statistik dasar, dan metode buka kunci yang mencakup karakter gaya anime divine, rare, dan OP.",
+      "categoryLabel": "UNIT",
+      "whatIs": "Apa Itu Unit Anime RNG Defense?",
+      "whatIsDescription": "Unit adalah defender bergaya anime yang Anda roll, tempatkan, dan upgrade untuk melindungi base Anda. Setiap unit memiliki rarity, role seperti DPS, support, atau carry, dan statistik unik yang menentukan performanya melawan wave musuh. Kategori ini mencantumkan setiap unit tanpa memberi peringkat.",
+      "why": "Mengapa Mempelajari Daftar Unit?",
+      "whySteps": {
+        "step1Title": "Kenali Setiap Rarity",
+        "step1Description": "Tingkat rarity dari common hingga divine menentukan kekuatan dasar unit dan biaya pull, sehingga Anda dapat merencanakan roll mana yang sepadan dengan Crystals Anda.",
+        "step2Title": "Pilih Role yang Tepat",
+        "step2Description": "Memahami role setiap unit membantu Anda membangun tim yang seimbang dengan unit carry, support, dan area yang mencakup setiap wave.",
+        "step3Title": "Metode Buka Kunci untuk Setiap Unit",
+        "step3Description": "Setiap entri menjelaskan cara mendapatkan unit—roll, event, atau box—sehingga Anda dapat menargetkan defender yang belum ada di daftar Anda."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Unit"
+    },
+    "tiers": {
+      "title": "Tier List Anime RNG Defense",
+      "description": "Tier list Anime RNG Defense yang memberi peringkat setiap unit dari S ke C berdasarkan DPS, nilai support, dan performa late-game.",
+      "metaTitle": "Tier List Anime RNG Defense - Peringkat Unit Terbaik",
+      "metaDescription": "Lihat unit Anime RNG Defense terbaik yang diperingkat dalam tier list lengkap S, A, B, C berdasarkan DPS, nilai support, dan performa late-game.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "Apa Itu Tier List Anime RNG Defense?",
+      "whatIsDescription": "Tier list memberikan peringkat setiap unit berdasarkan kekuatan keseluruhan, memisahkan DPS, support, dan carry late-game terbaik dari pilihan yang lebih lemah. Gunakan ini untuk memutuskan unit mana yang akan diinvestasikan dan mana yang dilewati, terpisah dari info unit murni di kategori Unit.",
+      "why": "Mengapa Mempercayai Tier List Ini?",
+      "whySteps": {
+        "step1Title": "Peringkat S ke C yang Jelas",
+        "step1Description": "Unit disortir ke dalam tier S, A, B, dan C sehingga Anda dapat langsung mengenali defender terkuat dan investasi paling aman.",
+        "step2Title": "Pilihan Terbaik Berdasarkan Peran",
+        "step2Description": "Peringkat terpisah untuk DPS terbaik, support terbaik, dan unit late-game terbaik membantu Anda mengisi peran tepat yang dibutuhkan tim Anda.",
+        "step3Title": "Diperbarui dengan Unit Baru",
+        "step3Description": "Daftar ini diperbarui saat unit divine dan event baru dirilis, menjaga keputusan build Anda tetap didasarkan pada meta saat ini."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Tier List"
+    },
+    "reroll": {
+      "title": "Reroll & Trait Anime RNG Defense",
+      "description": "Reroll stat, trait, dan luck di Anime RNG Defense: penjelasan tentang stat chip, trait pool, dan penumpukan boost luck.",
+      "metaTitle": "Panduan Reroll Anime RNG Defense - Stat, Trait & Luck",
+      "metaDescription": "Pelajari cara melakukan reroll stat dan trait di Anime RNG Defense, menumpuk boost luck, serta menggunakan universe luck dan weekend luck untuk mendapatkan unit yang lebih langka.",
+      "categoryLabel": "REROLL & TRAIT",
+      "whatIs": "Apa Itu Reroll di Anime RNG Defense?",
+      "whatIsDescription": "Reroll memungkinkan Anda mereset stat dan trait unit untuk mendapatkan roll yang lebih kuat dan pull yang lebih baik. Dikombinasikan dengan boost luck seperti universe luck dan weekend luck, ini meningkatkan peluang Anda untuk mendapatkan unit langka dan divine dari setiap Crystal yang digunakan.",
+      "why": "Mengapa Reroll itu Penting",
+      "whySteps": {
+        "step1Title": "Stat Unit yang Lebih Baik",
+        "step1Description": "Stat chip memungkinkan Anda melakukan reroll pada stat utama unit ke nilai yang lebih tinggi, secara langsung meningkatkan damage, range, dan daya tahan.",
+        "step2Title": "Trait Pool yang Lebih Kuat",
+        "step2Description": "Trait menambahkan modifier kuat pada unit Anda; melakukan reroll membantu Anda mengejar kombinasi trait yang sesuai dengan peran masing-masing defender.",
+        "step3Title": "Luck Lebih Tinggi, Pull Lebih Langka",
+        "step3Description": "Menumpuk boost universe luck dan weekend luck meningkatkan peluang Anda untuk mendapatkan roll dengan rarity tinggi, membuat setiap Crystal menjadi lebih berharga."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Panduan Reroll"
+    },
+    "items": {
+      "title": "Item Anime RNG Defense",
+      "description": "Panduan item Anime RNG Defense: scroll, gem, crate, dan sumber reward untuk progres yang lebih cepat.",
+      "metaTitle": "Item Anime RNG Defense - Scroll, Gem, Crate & Reward",
+      "metaDescription": "Kuasai setiap item Anime RNG Defense: cara menggunakan scroll, mendapatkan gem, membuka crate, dan mengklaim reward untuk mempercepat progres Anda.",
+      "categoryLabel": "ITEM",
+      "whatIs": "Apa Itu Item Anime RNG Defense?",
+      "whatIsDescription": "Item mencakup scroll, gem, crate, dan reward yang mendukung progres Anda. Scroll meningkatkan level unit, gem mendanai roll dan reroll, crate menjatuhkan unit baru, dan sumber reward menjaga pendapatan resource Anda tetap stabil di setiap map.",
+      "why": "Mengapa Harus Mempelajari Sistem Item?",
+      "whySteps": {
+        "step1Title": "Gunakan Scroll dengan Bijak",
+        "step1Description": "Mengetahui cara dan kapan harus menggunakan scroll memungkinkan Anda mengupgrade unit yang tepat terlebih dahulu daripada menyia-nyiakannya pada unit carry awal.",
+        "step2Title": "Dapatkan dan Gunakan Gem",
+        "step2Description": "Gem adalah mata uang utama untuk reroll dan pull Anda; farming gem yang efisien membuat roll dan reset stat Anda berjalan tanpa henti.",
+        "step3Title": "Maksimalkan Crate dan Reward",
+        "step3Description": "Memahami drop pool crate dan sumber reward membantu Anda menargetkan unit dan item yang melengkapi kekurangan dalam roster Anda."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Item"
+    },
+    "progression": {
+      "title": "Progres Anime RNG Defense",
+      "description": "Sistem progres Anime RNG Defense: prestige, indeks unit, unit AFK, dan strategi pull untuk pertumbuhan jangka panjang.",
+      "metaTitle": "Progresi Anime RNG Defense - Panduan Prestige, Indeks & AFK",
+      "metaDescription": "Pahami progresi Anime RNG Defense: reset prestige, melengkapi indeks unit, unit AFK, dan strategi pull untuk pertumbuhan jangka panjang yang stabil.",
+      "categoryLabel": "PROGRESI",
+      "whatIs": "Apa Itu Progresi Anime RNG Defense?",
+      "whatIsDescription": "Sistem progresi membentuk pertumbuhan jangka panjang Anda di Anime RNG Defense. Reset prestige meningkatkan multiplier Anda, indeks unit memberikan hadiah untuk pencapaian koleksi, unit AFK menghasilkan pendapatan pasif, dan strategi pull yang cerdas menjaga roster Anda terus berkembang di setiap sesi.",
+      "why": "Mengapa Merencanakan Progresi Anda?",
+      "whySteps": {
+        "step1Title": "Prestige untuk Multiplier",
+        "step1Description": "Reset prestige memberikan multiplier permanen yang membuat setiap run di masa mendatang menjadi lebih kuat, sehingga menentukan waktu yang tepat untuk melakukannya akan mempercepat pertumbuhan secara keseluruhan.",
+        "step2Title": "Lengkapi Indeks Unit",
+        "step2Description": "Indeks ini memberi Anda hadiah karena mengumpulkan unit, mengubah roster Anda menjadi sumber bonus dan unlock yang stabil.",
+        "step3Title": "Pendapatan AFK dan Strategi Pull",
+        "step3Description": "Unit AFK menghasilkan sumber daya saat Anda offline dan strategi pull yang terencana memastikan Crystal Anda digunakan untuk unit yang memajukan progresi Anda."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Progresi"
+    }
   }
 }

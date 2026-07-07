@@ -270,7 +270,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       const fullPath = `/${slug.join('/')}`
 
       return {
-        title: `${metadata.title} - Lucid Blocks Wiki`,
+        title: `${metadata.title} - Anime RNG Defense Wiki`,
         description: metadata.description,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {

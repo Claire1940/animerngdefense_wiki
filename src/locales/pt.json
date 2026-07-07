@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de Anime RNG Defense - Códigos, Unidades e Tier List",
+      "description": "Wiki de Anime RNG Defense com códigos, giros de unidades, traits, mapas, builds de equipe, melhorias, tier lists, dicas para iniciantes e notas de atualização para jogadores de Roblox.",
+      "keywords": "Anime RNG Defense, Roblox, códigos, unidades, tier list, traits, mapas, builds de equipe",
+      "ogTitle": "Wiki de Anime RNG Defense - Códigos, Unidades e Tier List",
+      "ogDescription": "Wiki de Anime RNG Defense com códigos, giros de unidades, traits, mapas, builds de equipe, melhorias, tier lists, dicas para iniciantes e notas de atualização para jogadores de Roblox.",
+      "twitterTitle": "Wiki de Anime RNG Defense - Códigos, Unidades e Tier List",
+      "twitterDescription": "Gire unidades, defenda sua base e suba em cada mapa no Anime RNG Defense no Roblox. Códigos, tier lists, builds e dicas para iniciantes."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
@@ -7,5 +18,626 @@
     "reroll": "Reroll",
     "items": "Itens",
     "progression": "Progressão"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Roblox Anime RNG Tower Defense",
+    "title": "Wiki de Anime RNG Defense",
+    "description": "Gire unidades em estilo anime, defenda sua base, limpe ondas de inimigos, melhore sua equipe, aumente a sorte e monte a escalação mais forte em cada mapa.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "210.7K+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "1.6K+",
+        "label": "Jogadores Online"
+      },
+      "stat3": {
+        "value": "RELEASE",
+        "label": "Código Oficial"
+      },
+      "stat4": {
+        "value": "5 de jul. de 2026",
+        "label": "Última Atualização"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Anime RNG Defense",
+    "description": "Gire unidades no estilo anime, posicione defensores, limpe as ondas de inimigos, melhore sua equipe, aumente sua sorte e defenda sua base em todos os mapas neste jogo de tower defense de anime RNG do Roblox."
+  },
+  "tools": {
+    "title": "Anime RNG Defense",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para girar, defender e progredir em todos os mapas no Anime RNG Defense",
+    "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Códigos de Anime RNG Defense",
+        "description": "Códigos ativos, recompensas e os passos mais rápidos para resgatar"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Guia para Iniciantes de Anime RNG Defense",
+        "description": "Gire unidades, posicione defensores, limpe as ondas e melhore"
+      },
+      {
+        "icon": "Coroa",
+        "title": "Tier List de Unidades de Anime RNG Defense",
+        "description": "Classifique as unidades pelo poder de limpar ondas e valor de progressão"
+      },
+      {
+        "icon": "Caixas",
+        "title": "Unidades e Raridades de Anime RNG Defense",
+        "description": "Como os giros, Caixas, Cristais e a raridade moldam sua escalação"
+      },
+      {
+        "icon": "Mapa",
+        "title": "Guia de Mapas de Anime RNG Defense",
+        "description": "Entre nos mapas, leia os caminhos dos inimigos e proteja sua base"
+      },
+      {
+        "icon": "Alvo",
+        "title": "Melhor Equipe de Anime RNG Defense",
+        "description": "Monte uma escalação mais forte com unidades raras e posicionamento inteligente"
+      },
+      {
+        "icon": "Dados",
+        "title": "Guia de Sorte de Anime RNG Defense",
+        "description": "Giros, aumentos de sorte e a busca por unidades de anime mais raras"
+      },
+      {
+        "icon": "Sino",
+        "title": "Atualizações de Anime RNG Defense",
+        "description": "Tags de atualização, lançamentos de códigos, recompensas de grupo e links da comunidade"
+      }
+    ]
+  },
+  "modules": {
+    "animeRngDefenseCodes": {
+      "eyebrow": "Recompensas Grátis",
+      "title": "Códigos de Anime RNG Defense",
+      "subtitle": "Resgate códigos ativos de Anime RNG Defense para obter Cristais, Caixas Comuns, Caixas Raras, Caixas Épicas, Dedos Amaldiçoados e outras recompensas grátis.",
+      "intro": "Os códigos são a maneira mais rápida de começar mais forte no Anime RNG Defense. Use-os antes de girar muito, pois Cristais e Caixas ajudam você a desbloquear mais unidades no estilo anime e a montar uma escalação de defesa melhor mais rápido.",
+      "displayType": "code-cards",
+      "items": [
+        {
+          "code": "TYFORSUPPORT1",
+          "status": "ativo",
+          "reward": "Recompensas Grátis",
+          "requirement": "Requer pelo menos 10.000 giros",
+          "bestFor": "Jogadores experientes que já possuem uma grande contagem de giros"
+        },
+        {
+          "code": "UPDATE2",
+          "status": "ativo",
+          "reward": "250 Cristais",
+          "requirement": "Nenhum listado",
+          "bestFor": "Giros extras e progressão inicial mais rápida"
+        },
+        {
+          "code": "CURSEDHIGHSCHOOL",
+          "status": "ativo",
+          "reward": "200 Cristais e 3 Dedos Amaldiçoados",
+          "requirement": "Nenhum listado",
+          "bestFor": "Recompensas estilo evento e progressão temática de JJK"
+        },
+        {
+          "code": "INNOVATIONCITY",
+          "status": "ativo",
+          "reward": "200 Cristais, 10 Caixas Comuns, 5 Caixas Raras e 3 Caixas Épicas",
+          "requirement": "Nenhum listado",
+          "bestFor": "Melhor pacote de recompensa inicial completo"
+        },
+        {
+          "code": "UPDATE1",
+          "status": "ativo",
+          "reward": "250 Cristais",
+          "requirement": "Nenhum listado",
+          "bestFor": "Mais giros após a primeira atualização"
+        },
+        {
+          "code": "RELEASE",
+          "status": "ativo",
+          "reward": "250 Cristais e 5 Caixas Comuns",
+          "requirement": "Nenhum listado",
+          "bestFor": "Novos jogadores começando sua primeira escalação"
+        }
+      ]
+    },
+    "animeRngDefenseBeginnerGuide": {
+      "eyebrow": "Guia do Iniciante",
+      "title": "Guia de Iniciante de Anime RNG Defense",
+      "subtitle": "Aprenda o ciclo principal: resgatar códigos, girar unidades, posicionar defensores, limpar ondas, melhorar sua equipe e proteger a base.",
+      "intro": "Anime RNG Defense mistura giros de unidades baseados em sorte com estratégia de tower defense. O objetivo básico é simples: obter unidades, posicioná-las bem, sobreviver a ondas de inimigos e continuar melhorando até que sua escalação possa limpar mapas mais difíceis.",
+      "displayType": "passo a passo",
+      "items": [
+        {
+          "step": 1,
+          "title": "Resgate os códigos primeiro",
+          "description": "Comece com códigos como RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY e CURSEDHIGHSCHOOL para coletar Cristais, Caixas e recompensas de evento antes de gastar tempo com giros.",
+          "tip": "Use as recompensas dos códigos antes de começar o grind para que sua primeira escalação se forme mais rápido."
+        },
+        {
+          "step": 2,
+          "title": "Gire para obter unidades estilo anime",
+          "description": "O jogo usa giros de RNG para desbloquear unidades. Mais sorte e melhores caixas de recompensa dão mais chances de conseguir defensores mais fortes.",
+          "tip": "Não julgue uma escalação apenas pela raridade; a limpeza de ondas e o valor do posicionamento também importam."
+        },
+        {
+          "step": 3,
+          "title": "Entre nos mapas e limpe as ondas de inimigos",
+          "description": "Após montar uma equipe inicial, entre nos mapas e foque em limpar as ondas enquanto protege sua base dos inimigos.",
+          "tip": "Posicione suas unidades de dano mais confiáveis onde elas possam atingir os inimigos pelo maior tempo possível."
+        },
+        {
+          "step": 4,
+          "title": "Melhore sua equipe durante a batalha",
+          "description": "Melhorias tornam suas unidades mais fortes na batalha, ajudando-as a lidar com ondas posteriores e inimigos mais difíceis.",
+          "tip": "Melhore as unidades principais primeiro em vez de distribuir recursos por substitutos fracos."
+        },
+        {
+          "step": 5,
+          "title": "Aumente a sorte antes de rolar a sério",
+          "description": "Boosts de sorte aumentam suas chances de conseguir unidades mais raras, o que é importante porque cada rolagem pode mudar sua defesa.",
+          "tip": "Use boosts quando estiver pronto para rolar muitas vezes, não para uma ou duas rolagens aleatórias."
+        },
+        {
+          "step": 6,
+          "title": "Monte uma escalação equilibrada",
+          "description": "Uma boa equipe deve incluir unidades que consigam limpar grupos, causar muito dano e segurar as ondas por tempo suficiente para proteger a base.",
+          "tip": "Substitua unidades fracas assim que conseguir opções de melhor raridade ou melhor dano."
+        }
+      ]
+    },
+    "animeRngDefenseUnitTierList": {
+      "eyebrow": "Melhores Unidades",
+      "title": "Tier List de Unidades de Anime RNG Defense",
+      "subtitle": "Classifique as unidades pelo valor prático: força para limpar ondas, valor da raridade, eficiência de upgrade e o quanto ajudam na progressão.",
+      "intro": "As unidades mais fortes de Anime RNG Defense são as que ajudam você a limpar ondas de forma consistente, não apenas as rolagens que parecem mais raras. Priorize unidades que cobrem caminhos longos, eliminam grupos, escalam bem com upgrades ou carregam sua equipe em novos mapas.",
+      "displayType": "tier-grid",
+      "items": [
+        {
+          "tier": "S",
+          "label": "Melhores unidades de progressão",
+          "unitType": "Causadores de dano de alta raridade e fortes limpadores de ondas",
+          "whyItRanksHere": "Estas são as rolagens mais valiosas porque podem carregar mapas do início e meio do jogo, lidar com ondas maiores e merecem seus primeiros upgrades.",
+          "bestUse": "Slot de carry principal, primeira prioridade de upgrade, tentativas em mapas mais difíceis"
+        },
+        {
+          "tier": "A",
+          "label": "Unidades fortes para a escalação",
+          "unitType": "Unidades de Caixas Raras e Épicas com dano confiável ou ampla cobertura",
+          "whyItRanksHere": "Estas unidades são fortes o suficiente para permanecer na sua escalação ativa enquanto você continua rolando por opções melhores.",
+          "bestUse": "Slots de defesa principais, carries de reserva, limpeza de ondas estável"
+        },
+        {
+          "tier": "B",
+          "label": "Boas unidades iniciais",
+          "unitType": "Unidades de Caixas Comuns e rolagens iniciais com dano utilizável",
+          "whyItRanksHere": "Estas unidades são úteis no início, especialmente após resgatar RELEASE ou INNOVATIONCITY, mas devem ser substituídas quando rolagens mais fortes chegarem.",
+          "bestUse": "Primeiros mapas, defesa de ondas inicial, preenchimento temporário de equipe"
+        },
+        {
+          "tier": "C",
+          "label": "Unidades de baixa prioridade",
+          "unitType": "Rolagens duplicadas ou unidades iniciais fracas com escalonamento ruim",
+          "whyItRanksHere": "Estas unidades podem ajudar a preencher slots vazios, mas não valem grandes upgrades assim que você tiver opções Raras ou Épicas.",
+          "bestUse": "Apenas para posicionamento de curto prazo"
+        }
+      ]
+    },
+    "animeRngDefenseUnitsAndRarities": {
+      "eyebrow": "Unidades e Raridade",
+      "title": "Unidades e Raridades de Anime RNG Defense",
+      "subtitle": "Entenda como rolagens, Caixas, Cristais e raridade funcionam juntos ao montar sua equipe de defesa.",
+      "intro": "Anime RNG Defense é focado em rolar para obter unidades no estilo anime e, em seguida, usar essas unidades para limpar ondas e defender sua base. Unidades mais raras importam porque geralmente oferecem melhor valor de progressão, mas a melhor escalação ainda depende do posicionamento, upgrades e poder de limpeza de ondas.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "name": "Cristais",
+          "type": "Moeda de recompensa principal",
+          "howToGet": "Disponível a partir de códigos como RELEASE, UPDATE1, UPDATE2, CURSEDHIGHSCHOOL e INNOVATIONCITY",
+          "whyItMatters": "Cristais ajudam os jogadores a progredir mais rápido, fornecendo mais recursos para o ciclo de giros e recompensas.",
+          "playerTip": "Resgate códigos de Cristais antes de fazer uma sessão de giros mais longa."
+        },
+        {
+          "name": "Caixas Comuns",
+          "type": "Caixa de recompensa inicial",
+          "howToGet": "Disponível em RELEASE e INNOVATIONCITY",
+          "whyItMatters": "Caixas Comuns são úteis para preencher seus primeiros espaços de equipe e obter defensores iniciais rapidamente.",
+          "playerTip": "Use unidades de Caixas Comuns como iniciantes temporários, depois substitua os giros mais fracos conforme sua raridade melhorar."
+        },
+        {
+          "name": "Caixas Raras",
+          "type": "Caixa de recompensa de valor médio",
+          "howToGet": "Disponível em INNOVATIONCITY",
+          "whyItMatters": "Caixas Raras oferecem melhor potencial de escalação do que recompensas iniciais básicas e são úteis para a progressão inicial no mapa.",
+          "playerTip": "Priorize giros de Caixas Raras que melhorem a limpeza de ondas ou o dano de alvo único."
+        },
+        {
+          "name": "Caixas Épicas",
+          "type": "Caixa de recompensa de alto valor",
+          "howToGet": "Disponível em INNOVATIONCITY",
+          "whyItMatters": "Caixas Épicas são a recompensa de caixa mais importante listada nos códigos atuais e devem ser verificadas primeiro ao melhorar sua equipe.",
+          "playerTip": "Melhore carries de qualidade Épica antes de gastar muito em unidades mais fracas."
+        },
+        {
+          "name": "Dedos Amaldiçoados",
+          "type": "Item de recompensa estilo evento",
+          "howToGet": "Disponível em CURSEDHIGHSCHOOL",
+          "whyItMatters": "Dedos Amaldiçoados estão vinculados ao atual conjunto de recompensas temáticas de JJK e são úteis para a progressão do evento.",
+          "playerTip": "Resgate CURSEDHIGHSCHOOL antes de focar no conteúdo da atualização de JJK."
+        },
+        {
+          "name": "Unidades Mais Raras",
+          "type": "Principal objetivo de progressão",
+          "howToGet": "Gire unidades e aumente a sorte para ter melhores chances de conseguir giros mais fortes",
+          "whyItMatters": "Unidades mais raras podem mudar sua defesa e ajudar a limpar ondas de inimigos mais difíceis.",
+          "playerTip": "Use impulsos de sorte antes de grandes sessões de giros para melhorar sua chance de obter unidades mais fortes."
+        }
+      ]
+    },
+    "animeRngDefenseMapsAndWaves": {
+      "eyebrow": "Mapas e Ondas",
+      "title": "Guia de Mapas e Ondas de Anime RNG Defense",
+      "subtitle": "Entre nos mapas, limpe ondas de inimigos e mantenha sua base viva. Este guia explica o ciclo básico de fases que os jogadores devem seguir antes de tentar mapas mais difíceis.",
+      "intro": "Anime RNG Defense usa um ciclo de tower-defense: gire para obter unidades estilo anime, entre nos mapas, posicione defensores, limpe ondas, melhore sua equipe e proteja a base até que a fase seja concluída.",
+      "displayType": "passo a passo",
+      "items": [
+        {
+          "step": 1,
+          "title": "Prepare Suas Unidades Antes de Entrar",
+          "description": "Gire para desbloquear unidades estilo anime antes de começar um mapa. Um elenco mais forte oferece mais opções quando os inimigos começam a se mover em direção à base.",
+          "goal": "Tenha defensores utilizáveis suficientes prontos antes do início da primeira onda."
+        },
+        {
+          "step": 2,
+          "title": "Entre em um Mapa e Observe o Caminho do Inimigo",
+          "description": "Diferentes mapas fazem parte do ciclo principal de progressão. Após entrar em um mapa, verifique por onde os inimigos passam e coloque suas primeiras unidades onde elas possam atacar pelo maior tempo possível.",
+          "goal": "Use o layout do caminho para obter mais valor de cada unidade posicionada."
+        },
+        {
+          "step": 3,
+          "title": "Limpe Ondas Sem Deixar os Inimigos Chegarem à Base",
+          "description": "Cada fase envia ondas de inimigos em direção à sua base. O objetivo principal é derrotar os inimigos antes que muitos passem pela sua defesa.",
+          "goal": "Proteja a base enquanto sobrevive a cada onda."
+        },
+        {
+          "step": 4,
+          "title": "Melhore Durante a Batalha",
+          "description": "Melhorar seu time torna as unidades mais fortes na batalha. Use melhorias quando seu dano atual não for suficiente para parar as ondas posteriores.",
+          "goal": "Transforme as unidades iniciais em ferramentas mais fortes de limpeza de ondas."
+        },
+        {
+          "step": 5,
+          "title": "Repita Mapas Com Giros Melhores",
+          "description": "Cada giro pode mudar sua defesa. Se um mapa parecer muito difícil, volte com unidades mais raras, melhorias melhores e uma escalação mais forte.",
+          "goal": "Use o progresso de RNG e as melhorias de time para derrotar mapas mais difíceis."
+        }
+      ]
+    },
+    "animeRngDefenseBestTeamBuild": {
+      "eyebrow": "Build de Time",
+      "title": "Melhor Build de Time de Anime RNG Defense",
+      "subtitle": "Monte uma escalação mais forte combinando unidades raras, unidades melhoradas e posicionamento inteligente. O melhor time não se trata apenas de raridade; ele também precisa de dano suficiente e cobertura de mapa.",
+      "intro": "Anime RNG Defense é focado em girar unidades e usar estratégia para vencer batalhas. Um bom time deve incluir suas unidades mais raras disponíveis, defensores melhorados e posicionamentos que protejam a base de cada onda.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "title": "Núcleo de Unidades Raras",
+          "role": "Dano principal",
+          "description": "Use suas unidades mais raras obtidas nos giros como o centro do time. Boosts de sorte ajudam você a buscar unidades mais fortes, e giros raros geralmente dão à sua escalação um melhor potencial a longo prazo.",
+          "bestFor": "Ondas mais difíceis e avanços de mapa mais fortes"
+        },
+        {
+          "title": "Espaço de Defensor Melhorado",
+          "role": "Limpeza de ondas confiável",
+          "description": "Mantenha unidades melhoradas na escalação mesmo que não sejam seu giro mais recente. Uma unidade fortalecida geralmente pode ter um desempenho melhor do que uma unidade nova sem melhorias.",
+          "bestFor": "Limpezas estáveis e ondas iniciais mais seguras"
+        },
+        {
+          "title": "Unidade de Posicionamento Inicial",
+          "role": "Controle da primeira onda",
+          "description": "Posicione uma unidade confiável cedo para que os inimigos não cheguem à base enquanto você prepara defensores mais fortes. O controle inicial dá ao resto do seu time tempo para escalar.",
+          "bestFor": "Ondas de abertura e proteção da base"
+        },
+        {
+          "title": "Configuração de Dano em Caminho Longo",
+          "role": "Eficiência no mapa",
+          "description": "Posicione unidades onde os inimigos permaneçam no alcance por mais tempo. Um bom posicionamento pode fazer com que a mesma unidade cause mais dano total ao longo de uma onda inteira.",
+          "bestFor": "Mapas com caminhos sinuosos ou rotas de inimigos mais longas"
+        },
+        {
+          "title": "Plano de Prioridade de Melhoria",
+          "role": "Escalonamento de poder",
+          "description": "Melhore as unidades que já estão carregando a defesa em vez de dispersar demais os recursos. Melhorias focadas ajudam seus melhores defensores a lidar com as ondas posteriores.",
+          "bestFor": "Progressão consistente"
+        },
+        {
+          "title": "Espaço de Melhoria de Reroll",
+          "role": "Crescimento do time",
+          "description": "Continue girando para obter melhores unidades estilo anime quando seu time atual começar a ter dificuldades. Um giro forte pode mudar sua defesa e facilitar mapas difíceis.",
+          "bestFor": "Substituindo unidades fracas ao longo do tempo"
+        }
+      ]
+    },
+    "animeRngDefenseLuckAndRolling": {
+      "eyebrow": "Sorte e Giros",
+      "title": "Guia de Sorte e Giros de Anime RNG Defense",
+      "subtitle": "Girar é uma das principais formas de desbloquear unidades mais fortes. Boosts de sorte importam porque aumentam suas chances de conseguir unidades mais raras para batalhas mais difíceis.",
+      "intro": "Anime RNG Defense mistura RNG e estratégia de tower-defense. Os jogadores giram para desbloquear unidades estilo anime, aumentam a sorte para unidades mais raras e depois usam essas unidades para defender mapas e derrotar ondas.",
+      "displayType": "acordeão",
+      "items": [
+        {
+          "question": "O que girar faz no Anime RNG Defense?",
+          "answer": "Girar desbloqueia unidades no estilo anime. Essas unidades se tornam o núcleo da sua defesa, então girar é a principal forma de melhorar sua equipe com o tempo."
+        },
+        {
+          "question": "Por que a sorte é importante?",
+          "answer": "Boosts de sorte ajudam os jogadores a buscarem unidades mais raras. Como unidades mais raras podem melhorar sua formação, a sorte é útil quando sua equipe atual começa a ter dificuldades contra ondas mais difíceis."
+        },
+        {
+          "question": "Quando os jogadores devem girar mais?",
+          "answer": "Gire mais quando suas unidades atuais não conseguirem limpar as ondas rápido o suficiente, quando os inimigos continuarem alcançando sua base ou quando precisar de opções mais fortes antes de entrar em mapas mais difíceis."
+        },
+        {
+          "question": "Quando os jogadores devem fazer upgrade em vez de girar?",
+          "answer": "Faça upgrade quando já tiver unidades úteis posicionadas e precisar de mais poder de batalha imediatamente. Girar melhora seu elenco, enquanto o upgrade torna sua equipe atual mais forte durante as lutas."
+        },
+        {
+          "question": "Como o ato de girar se conecta com a progressão no mapa?",
+          "answer": "Cada giro pode mudar sua defesa. Unidades melhores facilitam a limpeza das ondas de inimigos, protegem a base e permitem vencer em mais mapas."
+        },
+        {
+          "question": "Qual código inicial os jogadores devem verificar?",
+          "answer": "Os jogadores podem usar o código RELEASE da descrição oficial do jogo no Roblox. As recompensas de códigos podem ajudar novos jogadores a começarem a progredir mais rápido."
+        }
+      ]
+    },
+    "animeRngDefenseUpdatesAndDiscord": {
+      "eyebrow": "Atualizações e Comunidade",
+      "title": "Atualizações e Discord do Anime RNG Defense",
+      "subtitle": "Acompanhe tags de atualização, drops de códigos, recompensas de grupo e links oficiais da comunidade. Jogadores que estão retornando devem verificar esta seção para novas recompensas e mudanças no jogo.",
+      "intro": "A página oficial do Anime RNG Defense no Roblox lista o título atual do jogo, informações de códigos, lembrete de recompensas de grupo, dispositivos suportados e links da comunidade. Os jogadores devem usar a página do Roblox, o grupo Mera e o convite do Discord como as principais fontes de atualizações.",
+      "displayType": "acordeão",
+      "items": [
+        {
+          "question": "Qual é o título atual da página oficial do jogo?",
+          "answer": "O título da página oficial no Roblox é [JJK⛩️] Anime RNG Defense, mostrando que a página do jogo está usando uma tag de atualização ativa."
+        },
+        {
+          "question": "Qual código ativo é mostrado na página oficial do Roblox?",
+          "answer": "A descrição oficial no Roblox mostra o código RELEASE."
+        },
+        {
+          "question": "Onde os jogadores devem verificar por mais códigos?",
+          "answer": "A descrição oficial do jogo diz aos jogadores para entrarem no grupo para recompensas, atualizações e mais códigos. A comunidade Mera no Roblox e o convite do Discord do Anime RNG Defense são os principais links da comunidade."
+        },
+        {
+          "question": "Quais recompensas a página oficial menciona?",
+          "answer": "A página oficial menciona recompensas de grupo, atualizações e mais códigos. Os jogadores devem verificar o grupo do Roblox e o Discord quando novas atualizações chegarem."
+        },
+        {
+          "question": "Quais plataformas o Anime RNG Defense suporta?",
+          "answer": "A descrição oficial no Roblox diz que o jogo está disponível para Desktop, Celular, Tablet e Console."
+        },
+        {
+          "question": "O que os jogadores que estão retornando devem verificar primeiro?",
+          "answer": "Jogadores que estão retornando devem verificar a página do jogo no Roblox para a tag de título mais recente, o código atual, o grupo Mera para recompensas e o convite do Discord para atualizações da comunidade."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre o Anime RNG Defense",
+    "questions": [
+      {
+        "question": "O que é o Anime RNG Defense?",
+        "answer": "Anime RNG Defense é um jogo de tower defense de anime com RNG no Roblox. Você gira para obter unidades no estilo anime, as posiciona como defensores, limpa ondas de inimigos, melhora sua equipe e protege sua base em diferentes mapas."
+      },
+      {
+        "question": "Como eu resgato códigos no Anime RNG Defense?",
+        "answer": "Para resgatar códigos no Anime RNG Defense, abra o jogo, encontre o menu de resgate de códigos, insira um código ativo como RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY ou CURSEDHIGHSCHOOL e resgate seus Cristais, Caixas e recompensas de evento."
+      },
+      {
+        "question": "Para que servem os Cristais e as Caixas no Anime RNG Defense?",
+        "answer": "No Anime RNG Defense, Cristais e Caixas vêm de códigos e recompensas. Eles ajudam você a girar mais unidades no estilo anime e a construir uma formação de defesa mais forte mais rápido, então resgate os códigos antes de começar a girar seriamente."
+      },
+      {
+        "question": "Como funcionam os giros e a sorte no Anime RNG Defense?",
+        "answer": "Rolar é a principal forma de desbloquear unidades no Anime RNG Defense. Boosts de sorte melhoram suas chances de obter unidades mais raras, o que é importante quando sua equipe atual começa a ter dificuldades contra ondas mais difíceis."
+      },
+      {
+        "question": "Qual é a melhor maneira de montar um time no Anime RNG Defense?",
+        "answer": "O melhor time do Anime RNG Defense combina suas unidades roladas mais raras, defensores aprimorados e posicionamento inteligente. Foque o dano onde os inimigos permanecem ao alcance por mais tempo e aprimore os carregadores principais antes de distribuir os recursos."
+      },
+      {
+        "question": "Onde posso jogar Anime RNG Defense e obter atualizações?",
+        "answer": "Você pode jogar Anime RNG Defense na página oficial do jogo no Roblox. Para novos códigos, tags de atualização e recompensas de grupo, confira a página do jogo no Roblox, o grupo Mera e o convite oficial do Discord."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para defender sua base?",
+    "description": "Assista à gameplay de Anime RNG Defense e entre na ação no Roblox. Role unidades, melhore sua sorte e complete todos os mapas!",
+    "joinCommunity": "Assistir à Gameplay",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Anime RNG Defense Wiki",
+    "description": "Seu hub de recursos completo para códigos, unidades, tier lists, mapas, builds e dicas para iniciantes do Anime RNG Defense para jogadores de Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Avisos Legais",
+    "roblox": "Jogar no Roblox",
+    "youtube": "Assistir à Gameplay",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Anime RNG Defense Wiki. Não afiliado aos desenvolvedores de Anime RNG Defense ou Roblox Corporation.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos do Anime RNG Defense",
+      "description": "Códigos mais recentes e ativos do Anime RNG Defense para obter Cristais, Caixas e Dedos Amaldiçoados grátis. Atualizado diariamente com códigos verificados e etapas de resgate.",
+      "metaTitle": "Códigos do Anime RNG Defense - Cristais e Recompensas Grátis",
+      "metaDescription": "Resgate os códigos mais recentes do Anime RNG Defense para obter Cristais, Caixas de unidades e itens de evento grátis. Códigos ativos e verificados atualizados diariamente com etapas de resgate.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são os códigos do Anime RNG Defense?",
+      "whatIsDescription": "Os códigos do Anime RNG Defense são códigos de resgate lançados pelos desenvolvedores que concedem Cristais, Caixas de unidades, Dedos Amaldiçoados e itens de evento grátis. Novos códigos são lançados durante atualizações, marcos e eventos da comunidade, oferecendo recursos gratuitos para rolar unidades mais fortes no estilo anime.",
+      "why": "Por que usar esses códigos?",
+      "whySteps": {
+        "step1Title": "Cristais grátis para giros",
+        "step1Description": "Cada código ativo fornece Cristais que você pode gastar em giros de unidades sem precisar farmar, aumentando sua sorte inicial para obter defensores de alta raridade.",
+        "step2Title": "Caixas e itens de evento",
+        "step2Description": "Os códigos recompensam com vários níveis de Caixas de unidades e Dedos Amaldiçoados que aceleram a criação da sua coleção e a progressão nos mapas.",
+        "step3Title": "Atualizado diariamente e verificado",
+        "step3Description": "Atualizamos a lista de códigos todos os dias, removemos códigos expirados e confirmamos que cada um funciona para que você nunca perca uma tentativa de resgate."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os códigos"
+    },
+    "guide": {
+      "title": "Guias de Anime RNG Defense",
+      "description": "Guias completos de Anime RNG Defense para iniciantes e profissionais: primeiros passos, giros iniciais, defesa de base, subir de nível, dinheiro e conclusão de mundos.",
+      "metaTitle": "Guia do Anime RNG Defense - Passo a Passo do Iniciante ao Pro",
+      "metaDescription": "Domine o Anime RNG Defense com guias para iniciantes, giros de início de jogo, estratégia de defesa de base, subida de nível, farm de dinheiro e detonados passo a passo de cada mundo.",
+      "categoryLabel": "GUIAS",
+      "whatIs": "O que é um Guia do Anime RNG Defense?",
+      "whatIsDescription": "Estes guias orientam você em cada etapa do Anime RNG Defense, desde os seus primeiros giros de unidades e o básico da defesa de base até o farm de dinheiro avançado e conclusão de mundos.",
+      "why": "Por que seguir estes guias?",
+      "whySteps": {
+        "step1Title": "Uma primeira hora forte",
+        "step1Description": "Guias para iniciantes mostram quais unidades girar, onde posicioná-las e como sobreviver às ondas iniciais sem desperdiçar Cristais.",
+        "step2Title": "Subida de nível e dinheiro mais rápidos",
+        "step2Description": "Guias dedicados de nível e dinheiro ajudam você a farmar recursos com eficiência para que possa pagar por melhorias e giros raros mais cedo.",
+        "step3Title": "Conclua cada mundo",
+        "step3Description": "Detonados de mundo por mundo cobrem ondas de inimigos, recompensas de fases e as composições de unidades que concluem cada mapa com segurança."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os guias"
+    },
+    "units": {
+      "title": "Unidades do Anime RNG Defense",
+      "description": "Navegue por todas as unidades do Anime RNG Defense: raridades, funções, atributos básicos e métodos de desbloqueio para personagens divinos, raros e OP.",
+      "metaTitle": "Unidades do Anime RNG Defense - Todos os personagens, raridades e atributos",
+      "metaDescription": "Lista completa de unidades do Anime RNG Defense com raridades, funções, atributos básicos e métodos de desbloqueio cobrindo personagens divinos, raros e OP no estilo anime.",
+      "categoryLabel": "UNIDADES",
+      "whatIs": "O que são as Unidades do Anime RNG Defense?",
+      "whatIsDescription": "Unidades são os defensores no estilo anime que você gira, posiciona e melhora para proteger sua base. Cada unidade possui uma raridade, função (como DPS, suporte ou carry) e atributos únicos que determinam seu desempenho contra as ondas de inimigos.",
+      "why": "Por que estudar a lista de unidades?",
+      "whySteps": {
+        "step1Title": "Conheça cada raridade",
+        "step1Description": "Graus de raridade de comum a divino decidem o poder básico de uma unidade e o custo de obtenção, para que você possa planejar quais giros valem seus Cristais.",
+        "step2Title": "Escolha a função certa",
+        "step2Description": "Entender a função de cada unidade ajuda você a montar equipes equilibradas com unidades carry, suporte e de área que dão conta de todas as ondas.",
+        "step3Title": "Método de desbloqueio para cada unidade",
+        "step3Description": "Cada entrada explica como obter a unidade — giros, eventos ou caixas — para que você possa focar nos defensores que faltam em sua equipe."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as unidades"
+    },
+    "tiers": {
+      "title": "Tier List do Anime RNG Defense",
+      "description": "Tier list do Anime RNG Defense ranqueando cada unidade de S a C por DPS, valor de suporte e desempenho no fim de jogo.",
+      "metaTitle": "Tier List do Anime RNG Defense - Melhores Unidades Ranqueadas",
+      "metaDescription": "Veja as melhores unidades do Anime RNG Defense ranqueadas em uma tier list completa de S, A, B, C por DPS, valor de suporte e desempenho no fim de jogo.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "O que é a Tier List do Anime RNG Defense?",
+      "whatIsDescription": "A tier list ranqueia cada unidade por força geral, separando os melhores DPS, suportes e carries de fim de jogo das opções mais fracas. Use-a para decidir em quais unidades investir e quais ignorar, separadamente das informações puras de unidades na categoria Unidades.",
+      "why": "Por que confiar nesta tier list?",
+      "whySteps": {
+        "step1Title": "Ranks claros de S a C",
+        "step1Description": "As unidades são organizadas nos tiers S, A, B e C para que você possa identificar instantaneamente os defensores mais fortes e os investimentos mais seguros.",
+        "step2Title": "Melhores Escolhas por Função",
+        "step2Description": "Rankings separados para melhor DPS, melhor suporte e melhores unidades de late-game ajudam você a preencher a função exata que sua equipe precisa.",
+        "step3Title": "Atualizado com Novas Unidades",
+        "step3Description": "A lista é atualizada à medida que novas unidades divinas e de evento são lançadas, mantendo suas decisões de build baseadas no meta atual."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todas as Tier Lists"
+    },
+    "reroll": {
+      "title": "Reroll e Traits em Anime RNG Defense",
+      "description": "Rerole status, traits e sorte em Anime RNG Defense: stat chips, pools de traits e acúmulo de boosts de sorte explicados.",
+      "metaTitle": "Guia de Reroll de Anime RNG Defense - Status, Traits e Sorte",
+      "metaDescription": "Aprenda como rerolar status e traits em Anime RNG Defense, acumular boosts de sorte e usar a sorte do universo e de fim de semana para pulls de unidades mais raras.",
+      "categoryLabel": "REROLL E TRAITS",
+      "whatIs": "O que é Reroll em Anime RNG Defense?",
+      "whatIsDescription": "O reroll permite que você resete os status e traits de uma unidade para buscar giros mais fortes e pulls melhores. Combinado com boosts de sorte como a sorte do universo e a sorte de fim de semana, ele aumenta suas chances de conseguir unidades raras e divinas a cada Cristal gasto.",
+      "why": "Por que o Reroll é Importante",
+      "whySteps": {
+        "step1Title": "Melhores Status de Unidades",
+        "step1Description": "Stat chips permitem que você rerole os status principais de uma unidade para valores mais altos, aumentando diretamente o dano, alcance e sobrevivência.",
+        "step2Title": "Pools de Traits Mais Fortes",
+        "step2Description": "Traits adicionam modificadores poderosos às suas unidades; o reroll ajuda você a buscar as combinações de traits que se encaixam na função de cada defensor.",
+        "step3Title": "Maior Sorte, Pulls Mais Raros",
+        "step3Description": "Acumular boosts de sorte do universo e de fim de semana aumenta suas chances de giros de alta raridade, tornando cada Cristal mais valioso."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Reroll"
+    },
+    "items": {
+      "title": "Itens de Anime RNG Defense",
+      "description": "Guia de itens de Anime RNG Defense: scrolls, gemas, crates e fontes de recompensa para uma progressão mais rápida.",
+      "metaTitle": "Itens de Anime RNG Defense - Scrolls, Gemas, Crates e Recompensas",
+      "metaDescription": "Domine cada item de Anime RNG Defense: como usar scrolls, obter gemas, abrir crates e resgatar recompensas para acelerar sua progressão.",
+      "categoryLabel": "ITENS",
+      "whatIs": "O que São os Itens de Anime RNG Defense?",
+      "whatIsDescription": "Os itens cobrem os scrolls, gemas, crates e recompensas que impulsionam sua progressão. Scrolls melhoram unidades, gemas financiam giros e rerolls, crates dropam novas unidades e as fontes de recompensa mantêm sua renda de recursos estável em todos os mapas.",
+      "why": "Por que Aprender o Sistema de Itens?",
+      "whySteps": {
+        "step1Title": "Gaste Scrolls com Sabedoria",
+        "step1Description": "Saber como e quando usar scrolls permite que você melhore as unidades certas primeiro, em vez de desperdiçá-las em carries iniciais.",
+        "step2Title": "Ganhe e Use Gemas",
+        "step2Description": "As gemas são sua principal moeda de reroll e pull; o farm eficiente de gemas mantém seus giros e resets de status funcionando sem parar.",
+        "step3Title": "Maximize Crates e Recompensas",
+        "step3Description": "Entender as pools de drop de crates e as fontes de recompensa ajuda você a focar nas unidades e itens que preenchem as lacunas do seu elenco."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Itens"
+    },
+    "progression": {
+      "title": "Progressão em Anime RNG Defense",
+      "description": "Sistemas de progressão em Anime RNG Defense: prestígio, índice de unidades, unidades AFK e estratégia de pull para crescimento a longo prazo.",
+      "metaTitle": "Progressão no Anime RNG Defense - Guia de Prestígio, Índice e AFK",
+      "metaDescription": "Entenda a progressão no Anime RNG Defense: resets de prestígio, completar o índice de unidades, unidades AFK e estratégia de pulls para um crescimento constante a longo prazo.",
+      "categoryLabel": "PROGRESSÃO",
+      "whatIs": "O que é a Progressão no Anime RNG Defense?",
+      "whatIsDescription": "Os sistemas de progressão moldam seu crescimento a longo prazo no Anime RNG Defense. Os resets de prestígio aumentam seus multiplicadores, o índice de unidades recompensa marcos de coleção, as unidades AFK geram renda passiva e uma estratégia de pulls inteligente mantém seu elenco se expandindo a cada sessão.",
+      "why": "Por que planejar sua progressão?",
+      "whySteps": {
+        "step1Title": "Prestígio para Multiplicadores",
+        "step1Description": "Os resets de prestígio concedem multiplicadores permanentes que tornam cada partida futura mais forte, então escolher o momento certo para realizá-los acelera o crescimento geral.",
+        "step2Title": "Complete o Índice de Unidades",
+        "step2Description": "O índice recompensa você por coletar unidades, transformando seu elenco em uma fonte constante de bônus e desbloqueios.",
+        "step3Title": "Renda AFK e Estratégia de Pulls",
+        "step3Description": "As unidades AFK geram recursos enquanto você está offline, e uma estratégia de pulls planejada garante que seus Cristais sejam direcionados para as unidades que avançam sua progressão."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Progressão"
+    }
   }
 }
