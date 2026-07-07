@@ -1,1 +1,706 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "anime-rng-defense-codes",
+        "file": "anime-rng-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-rng-defense-beginner-guide",
+        "file": "anime-rng-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-rng-defense-defend-your-base",
+        "file": "anime-rng-defense-defend-your-base"
+      },
+      {
+        "slug": "anime-rng-defense-f2p-guide",
+        "file": "anime-rng-defense-f2p-guide"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-get-op-fast",
+        "file": "anime-rng-defense-how-to-get-op-fast"
+      },
+      {
+        "slug": "anime-rng-defense-level-up-guide",
+        "file": "anime-rng-defense-level-up-guide"
+      },
+      {
+        "slug": "anime-rng-defense-money-guide",
+        "file": "anime-rng-defense-money-guide"
+      },
+      {
+        "slug": "anime-rng-defense-noob-to-pro",
+        "file": "anime-rng-defense-noob-to-pro"
+      },
+      {
+        "slug": "anime-rng-defense-tips",
+        "file": "anime-rng-defense-tips"
+      },
+      {
+        "slug": "anime-rng-defense-worlds-guide",
+        "file": "anime-rng-defense-worlds-guide"
+      }
+    ],
+    "items": [
+      {
+        "slug": "anime-rng-defense-crates",
+        "file": "anime-rng-defense-crates"
+      },
+      {
+        "slug": "anime-rng-defense-gems",
+        "file": "anime-rng-defense-gems"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-use-scrolls",
+        "file": "anime-rng-defense-how-to-use-scrolls"
+      },
+      {
+        "slug": "anime-rng-defense-rewards",
+        "file": "anime-rng-defense-rewards"
+      },
+      {
+        "slug": "anime-rng-defense-scrolls",
+        "file": "anime-rng-defense-scrolls"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "anime-rng-defense-afk-units",
+        "file": "anime-rng-defense-afk-units"
+      },
+      {
+        "slug": "anime-rng-defense-index",
+        "file": "anime-rng-defense-index"
+      },
+      {
+        "slug": "anime-rng-defense-prestige",
+        "file": "anime-rng-defense-prestige"
+      },
+      {
+        "slug": "anime-rng-defense-pull-guide",
+        "file": "anime-rng-defense-pull-guide"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "anime-rng-defense-how-to-reroll-stats",
+        "file": "anime-rng-defense-how-to-reroll-stats"
+      },
+      {
+        "slug": "anime-rng-defense-luck",
+        "file": "anime-rng-defense-luck"
+      },
+      {
+        "slug": "anime-rng-defense-stats",
+        "file": "anime-rng-defense-stats"
+      },
+      {
+        "slug": "anime-rng-defense-traits",
+        "file": "anime-rng-defense-traits"
+      },
+      {
+        "slug": "anime-rng-defense-universe-luck",
+        "file": "anime-rng-defense-universe-luck"
+      },
+      {
+        "slug": "anime-rng-defense-weekend-luck",
+        "file": "anime-rng-defense-weekend-luck"
+      }
+    ],
+    "tiers": [
+      {
+        "slug": "anime-rng-defense-best-tower-tier-list",
+        "file": "anime-rng-defense-best-tower-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-characters-tier-list",
+        "file": "anime-rng-defense-characters-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-divine-tier-list",
+        "file": "anime-rng-defense-divine-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-tier-list",
+        "file": "anime-rng-defense-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-unit-tier-list",
+        "file": "anime-rng-defense-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-rng-defense-all-units",
+        "file": "anime-rng-defense-all-units"
+      },
+      {
+        "slug": "anime-rng-defense-best-units",
+        "file": "anime-rng-defense-best-units"
+      },
+      {
+        "slug": "anime-rng-defense-characters",
+        "file": "anime-rng-defense-characters"
+      },
+      {
+        "slug": "anime-rng-defense-divine-units",
+        "file": "anime-rng-defense-divine-units"
+      },
+      {
+        "slug": "anime-rng-defense-luffy-card",
+        "file": "anime-rng-defense-luffy-card"
+      },
+      {
+        "slug": "anime-rng-defense-meguro",
+        "file": "anime-rng-defense-meguro"
+      },
+      {
+        "slug": "anime-rng-defense-op-characters",
+        "file": "anime-rng-defense-op-characters"
+      },
+      {
+        "slug": "anime-rng-defense-rarest-units",
+        "file": "anime-rng-defense-rarest-units"
+      },
+      {
+        "slug": "anime-rng-defense-strongest-tower",
+        "file": "anime-rng-defense-strongest-tower"
+      },
+      {
+        "slug": "anime-rng-defense-units",
+        "file": "anime-rng-defense-units"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "anime-rng-defense-codes",
+        "file": "anime-rng-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-rng-defense-beginner-guide",
+        "file": "anime-rng-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-rng-defense-defend-your-base",
+        "file": "anime-rng-defense-defend-your-base"
+      },
+      {
+        "slug": "anime-rng-defense-f2p-guide",
+        "file": "anime-rng-defense-f2p-guide"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-get-op-fast",
+        "file": "anime-rng-defense-how-to-get-op-fast"
+      },
+      {
+        "slug": "anime-rng-defense-level-up-guide",
+        "file": "anime-rng-defense-level-up-guide"
+      },
+      {
+        "slug": "anime-rng-defense-money-guide",
+        "file": "anime-rng-defense-money-guide"
+      },
+      {
+        "slug": "anime-rng-defense-noob-to-pro",
+        "file": "anime-rng-defense-noob-to-pro"
+      },
+      {
+        "slug": "anime-rng-defense-tips",
+        "file": "anime-rng-defense-tips"
+      },
+      {
+        "slug": "anime-rng-defense-worlds-guide",
+        "file": "anime-rng-defense-worlds-guide"
+      }
+    ],
+    "items": [
+      {
+        "slug": "anime-rng-defense-crates",
+        "file": "anime-rng-defense-crates"
+      },
+      {
+        "slug": "anime-rng-defense-gems",
+        "file": "anime-rng-defense-gems"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-use-scrolls",
+        "file": "anime-rng-defense-how-to-use-scrolls"
+      },
+      {
+        "slug": "anime-rng-defense-rewards",
+        "file": "anime-rng-defense-rewards"
+      },
+      {
+        "slug": "anime-rng-defense-scrolls",
+        "file": "anime-rng-defense-scrolls"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "anime-rng-defense-afk-units",
+        "file": "anime-rng-defense-afk-units"
+      },
+      {
+        "slug": "anime-rng-defense-index",
+        "file": "anime-rng-defense-index"
+      },
+      {
+        "slug": "anime-rng-defense-prestige",
+        "file": "anime-rng-defense-prestige"
+      },
+      {
+        "slug": "anime-rng-defense-pull-guide",
+        "file": "anime-rng-defense-pull-guide"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "anime-rng-defense-how-to-reroll-stats",
+        "file": "anime-rng-defense-how-to-reroll-stats"
+      },
+      {
+        "slug": "anime-rng-defense-luck",
+        "file": "anime-rng-defense-luck"
+      },
+      {
+        "slug": "anime-rng-defense-stats",
+        "file": "anime-rng-defense-stats"
+      },
+      {
+        "slug": "anime-rng-defense-traits",
+        "file": "anime-rng-defense-traits"
+      },
+      {
+        "slug": "anime-rng-defense-universe-luck",
+        "file": "anime-rng-defense-universe-luck"
+      },
+      {
+        "slug": "anime-rng-defense-weekend-luck",
+        "file": "anime-rng-defense-weekend-luck"
+      }
+    ],
+    "tiers": [
+      {
+        "slug": "anime-rng-defense-best-tower-tier-list",
+        "file": "anime-rng-defense-best-tower-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-characters-tier-list",
+        "file": "anime-rng-defense-characters-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-divine-tier-list",
+        "file": "anime-rng-defense-divine-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-tier-list",
+        "file": "anime-rng-defense-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-unit-tier-list",
+        "file": "anime-rng-defense-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-rng-defense-all-units",
+        "file": "anime-rng-defense-all-units"
+      },
+      {
+        "slug": "anime-rng-defense-best-units",
+        "file": "anime-rng-defense-best-units"
+      },
+      {
+        "slug": "anime-rng-defense-characters",
+        "file": "anime-rng-defense-characters"
+      },
+      {
+        "slug": "anime-rng-defense-divine-units",
+        "file": "anime-rng-defense-divine-units"
+      },
+      {
+        "slug": "anime-rng-defense-luffy-card",
+        "file": "anime-rng-defense-luffy-card"
+      },
+      {
+        "slug": "anime-rng-defense-meguro",
+        "file": "anime-rng-defense-meguro"
+      },
+      {
+        "slug": "anime-rng-defense-op-characters",
+        "file": "anime-rng-defense-op-characters"
+      },
+      {
+        "slug": "anime-rng-defense-rarest-units",
+        "file": "anime-rng-defense-rarest-units"
+      },
+      {
+        "slug": "anime-rng-defense-strongest-tower",
+        "file": "anime-rng-defense-strongest-tower"
+      },
+      {
+        "slug": "anime-rng-defense-units",
+        "file": "anime-rng-defense-units"
+      }
+    ]
+  },
+  "id": {
+    "codes": [
+      {
+        "slug": "anime-rng-defense-codes",
+        "file": "anime-rng-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-rng-defense-beginner-guide",
+        "file": "anime-rng-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-rng-defense-defend-your-base",
+        "file": "anime-rng-defense-defend-your-base"
+      },
+      {
+        "slug": "anime-rng-defense-f2p-guide",
+        "file": "anime-rng-defense-f2p-guide"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-get-op-fast",
+        "file": "anime-rng-defense-how-to-get-op-fast"
+      },
+      {
+        "slug": "anime-rng-defense-level-up-guide",
+        "file": "anime-rng-defense-level-up-guide"
+      },
+      {
+        "slug": "anime-rng-defense-money-guide",
+        "file": "anime-rng-defense-money-guide"
+      },
+      {
+        "slug": "anime-rng-defense-noob-to-pro",
+        "file": "anime-rng-defense-noob-to-pro"
+      },
+      {
+        "slug": "anime-rng-defense-tips",
+        "file": "anime-rng-defense-tips"
+      },
+      {
+        "slug": "anime-rng-defense-worlds-guide",
+        "file": "anime-rng-defense-worlds-guide"
+      }
+    ],
+    "items": [
+      {
+        "slug": "anime-rng-defense-crates",
+        "file": "anime-rng-defense-crates"
+      },
+      {
+        "slug": "anime-rng-defense-gems",
+        "file": "anime-rng-defense-gems"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-use-scrolls",
+        "file": "anime-rng-defense-how-to-use-scrolls"
+      },
+      {
+        "slug": "anime-rng-defense-rewards",
+        "file": "anime-rng-defense-rewards"
+      },
+      {
+        "slug": "anime-rng-defense-scrolls",
+        "file": "anime-rng-defense-scrolls"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "anime-rng-defense-afk-units",
+        "file": "anime-rng-defense-afk-units"
+      },
+      {
+        "slug": "anime-rng-defense-index",
+        "file": "anime-rng-defense-index"
+      },
+      {
+        "slug": "anime-rng-defense-prestige",
+        "file": "anime-rng-defense-prestige"
+      },
+      {
+        "slug": "anime-rng-defense-pull-guide",
+        "file": "anime-rng-defense-pull-guide"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "anime-rng-defense-how-to-reroll-stats",
+        "file": "anime-rng-defense-how-to-reroll-stats"
+      },
+      {
+        "slug": "anime-rng-defense-luck",
+        "file": "anime-rng-defense-luck"
+      },
+      {
+        "slug": "anime-rng-defense-stats",
+        "file": "anime-rng-defense-stats"
+      },
+      {
+        "slug": "anime-rng-defense-traits",
+        "file": "anime-rng-defense-traits"
+      },
+      {
+        "slug": "anime-rng-defense-universe-luck",
+        "file": "anime-rng-defense-universe-luck"
+      },
+      {
+        "slug": "anime-rng-defense-weekend-luck",
+        "file": "anime-rng-defense-weekend-luck"
+      }
+    ],
+    "tiers": [
+      {
+        "slug": "anime-rng-defense-best-tower-tier-list",
+        "file": "anime-rng-defense-best-tower-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-characters-tier-list",
+        "file": "anime-rng-defense-characters-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-divine-tier-list",
+        "file": "anime-rng-defense-divine-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-tier-list",
+        "file": "anime-rng-defense-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-unit-tier-list",
+        "file": "anime-rng-defense-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-rng-defense-all-units",
+        "file": "anime-rng-defense-all-units"
+      },
+      {
+        "slug": "anime-rng-defense-best-units",
+        "file": "anime-rng-defense-best-units"
+      },
+      {
+        "slug": "anime-rng-defense-characters",
+        "file": "anime-rng-defense-characters"
+      },
+      {
+        "slug": "anime-rng-defense-divine-units",
+        "file": "anime-rng-defense-divine-units"
+      },
+      {
+        "slug": "anime-rng-defense-luffy-card",
+        "file": "anime-rng-defense-luffy-card"
+      },
+      {
+        "slug": "anime-rng-defense-meguro",
+        "file": "anime-rng-defense-meguro"
+      },
+      {
+        "slug": "anime-rng-defense-op-characters",
+        "file": "anime-rng-defense-op-characters"
+      },
+      {
+        "slug": "anime-rng-defense-rarest-units",
+        "file": "anime-rng-defense-rarest-units"
+      },
+      {
+        "slug": "anime-rng-defense-strongest-tower",
+        "file": "anime-rng-defense-strongest-tower"
+      },
+      {
+        "slug": "anime-rng-defense-units",
+        "file": "anime-rng-defense-units"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "anime-rng-defense-codes",
+        "file": "anime-rng-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-rng-defense-beginner-guide",
+        "file": "anime-rng-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-rng-defense-defend-your-base",
+        "file": "anime-rng-defense-defend-your-base"
+      },
+      {
+        "slug": "anime-rng-defense-f2p-guide",
+        "file": "anime-rng-defense-f2p-guide"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-get-op-fast",
+        "file": "anime-rng-defense-how-to-get-op-fast"
+      },
+      {
+        "slug": "anime-rng-defense-level-up-guide",
+        "file": "anime-rng-defense-level-up-guide"
+      },
+      {
+        "slug": "anime-rng-defense-money-guide",
+        "file": "anime-rng-defense-money-guide"
+      },
+      {
+        "slug": "anime-rng-defense-noob-to-pro",
+        "file": "anime-rng-defense-noob-to-pro"
+      },
+      {
+        "slug": "anime-rng-defense-tips",
+        "file": "anime-rng-defense-tips"
+      },
+      {
+        "slug": "anime-rng-defense-worlds-guide",
+        "file": "anime-rng-defense-worlds-guide"
+      }
+    ],
+    "items": [
+      {
+        "slug": "anime-rng-defense-crates",
+        "file": "anime-rng-defense-crates"
+      },
+      {
+        "slug": "anime-rng-defense-gems",
+        "file": "anime-rng-defense-gems"
+      },
+      {
+        "slug": "anime-rng-defense-how-to-use-scrolls",
+        "file": "anime-rng-defense-how-to-use-scrolls"
+      },
+      {
+        "slug": "anime-rng-defense-rewards",
+        "file": "anime-rng-defense-rewards"
+      },
+      {
+        "slug": "anime-rng-defense-scrolls",
+        "file": "anime-rng-defense-scrolls"
+      }
+    ],
+    "progression": [
+      {
+        "slug": "anime-rng-defense-afk-units",
+        "file": "anime-rng-defense-afk-units"
+      },
+      {
+        "slug": "anime-rng-defense-index",
+        "file": "anime-rng-defense-index"
+      },
+      {
+        "slug": "anime-rng-defense-prestige",
+        "file": "anime-rng-defense-prestige"
+      },
+      {
+        "slug": "anime-rng-defense-pull-guide",
+        "file": "anime-rng-defense-pull-guide"
+      }
+    ],
+    "reroll": [
+      {
+        "slug": "anime-rng-defense-how-to-reroll-stats",
+        "file": "anime-rng-defense-how-to-reroll-stats"
+      },
+      {
+        "slug": "anime-rng-defense-luck",
+        "file": "anime-rng-defense-luck"
+      },
+      {
+        "slug": "anime-rng-defense-stats",
+        "file": "anime-rng-defense-stats"
+      },
+      {
+        "slug": "anime-rng-defense-traits",
+        "file": "anime-rng-defense-traits"
+      },
+      {
+        "slug": "anime-rng-defense-universe-luck",
+        "file": "anime-rng-defense-universe-luck"
+      },
+      {
+        "slug": "anime-rng-defense-weekend-luck",
+        "file": "anime-rng-defense-weekend-luck"
+      }
+    ],
+    "tiers": [
+      {
+        "slug": "anime-rng-defense-best-tower-tier-list",
+        "file": "anime-rng-defense-best-tower-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-characters-tier-list",
+        "file": "anime-rng-defense-characters-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-divine-tier-list",
+        "file": "anime-rng-defense-divine-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-tier-list",
+        "file": "anime-rng-defense-tier-list"
+      },
+      {
+        "slug": "anime-rng-defense-unit-tier-list",
+        "file": "anime-rng-defense-unit-tier-list"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-rng-defense-all-units",
+        "file": "anime-rng-defense-all-units"
+      },
+      {
+        "slug": "anime-rng-defense-best-units",
+        "file": "anime-rng-defense-best-units"
+      },
+      {
+        "slug": "anime-rng-defense-characters",
+        "file": "anime-rng-defense-characters"
+      },
+      {
+        "slug": "anime-rng-defense-divine-units",
+        "file": "anime-rng-defense-divine-units"
+      },
+      {
+        "slug": "anime-rng-defense-luffy-card",
+        "file": "anime-rng-defense-luffy-card"
+      },
+      {
+        "slug": "anime-rng-defense-meguro",
+        "file": "anime-rng-defense-meguro"
+      },
+      {
+        "slug": "anime-rng-defense-op-characters",
+        "file": "anime-rng-defense-op-characters"
+      },
+      {
+        "slug": "anime-rng-defense-rarest-units",
+        "file": "anime-rng-defense-rarest-units"
+      },
+      {
+        "slug": "anime-rng-defense-strongest-tower",
+        "file": "anime-rng-defense-strongest-tower"
+      },
+      {
+        "slug": "anime-rng-defense-units",
+        "file": "anime-rng-defense-units"
+      }
+    ]
+  }
+}

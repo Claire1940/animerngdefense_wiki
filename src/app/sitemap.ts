@@ -7,28 +7,26 @@ export const dynamic = 'force-static'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.animerngdefense.wiki'
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与 navigation.ts CONTENT_TYPES 一一对应）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
+	'codes': 0.9,
+	'guide': 0.9,
+	'units': 0.8,
+	'tiers': 0.8,
+	'reroll': 0.8,
 	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'progression': 0.7,
 }
 
-// 内容更新频率配置
+// 内容更新频率配置（与 navigation.ts CONTENT_TYPES 一一对应）
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'units': 'weekly',
+	'tiers': 'weekly',
+	'reroll': 'weekly',
 	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'progression': 'weekly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

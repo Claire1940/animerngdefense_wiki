@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "units": "Unidades",
+    "tiers": "Tiers",
+    "reroll": "Reroll",
+    "items": "Objetos",
+    "progression": "Progresión"
+  }
+}

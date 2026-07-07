@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Kode",
+    "guide": "Panduan",
+    "units": "Unit",
+    "tiers": "Tiers",
+    "reroll": "Reroll",
+    "items": "Item",
+    "progression": "Progresi"
+  }
+}

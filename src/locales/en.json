@@ -10,7 +10,15 @@
       "twitterDescription": "Roll units, defend your base, and climb every map in Anime RNG Defense on Roblox. Codes, tier lists, builds, and beginner tips."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "units": "Units",
+    "tiers": "Tiers",
+    "reroll": "Reroll",
+    "items": "Items",
+    "progression": "Progression"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -490,5 +498,146 @@
     "copyright": "© 2026 Anime RNG Defense Wiki. Not affiliated with the developers of Anime RNG Defense or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {}
+  "pages": {
+    "codes": {
+      "title": "Anime RNG Defense Codes",
+      "description": "Latest working Anime RNG Defense codes for free Crystals, Boxes, and Cursed Fingers. Updated daily with verified codes and redeem steps.",
+      "metaTitle": "Anime RNG Defense Codes - Free Crystals & Rewards",
+      "metaDescription": "Redeem the latest Anime RNG Defense codes for free Crystals, unit Boxes, and event items. Daily updated, verified working codes with redeem steps.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What Are Anime RNG Defense Codes?",
+      "whatIsDescription": "Anime RNG Defense codes are developer-released redeem codes that grant free Crystals, unit Boxes, Cursed Fingers, and event items. New codes drop during updates, milestones, and community events, giving you free resources to roll stronger anime-style units.",
+      "why": "Why Use These Codes?",
+      "whySteps": {
+        "step1Title": "Free Crystals for Rolls",
+        "step1Description": "Every active code hands out Crystals you can spend on unit rolls without grinding, boosting your early luck pushes for high-rarity defenders.",
+        "step2Title": "Event Boxes and Items",
+        "step2Description": "Codes reward multiple tiers of unit Boxes and Cursed Fingers that speed up collection building and map progression.",
+        "step3Title": "Updated Daily and Verified",
+        "step3Description": "We refresh the code list every day, remove expired codes, and confirm each one works so you never waste a redeem attempt."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Anime RNG Defense Guides",
+      "description": "Complete Anime RNG Defense guides for beginners and pros: first steps, early rolls, base defense, leveling, money, and world clears.",
+      "metaTitle": "Anime RNG Defense Guide - Beginner to Pro Walkthrough",
+      "metaDescription": "Master Anime RNG Defense with beginner guides, early-game rolls, base defense strategy, leveling, money farming, and world-by-world walkthroughs.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What Is an Anime RNG Defense Guide?",
+      "whatIsDescription": "These guides walk you through every stage of Anime RNG Defense, from your first unit rolls and base defense basics to advanced money farming and world clears. Follow the roadmap that fits your level to grow a strong defender lineup fast.",
+      "why": "Why Follow These Guides?",
+      "whySteps": {
+        "step1Title": "A Strong First Hour",
+        "step1Description": "Beginner guides show you which units to roll, where to place them, and how to survive the opening waves without wasting Crystals.",
+        "step2Title": "Faster Leveling and Money",
+        "step2Description": "Dedicated leveling and money guides help you farm resources efficiently so you can afford upgrades and rare rolls sooner.",
+        "step3Title": "Clear Every World",
+        "step3Description": "World-by-world walkthroughs cover enemy waves, stage rewards, and the unit setups that reliably clear each map."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "units": {
+      "title": "Anime RNG Defense Units",
+      "description": "Browse every Anime RNG Defense unit: rarities, roles, base stats, and unlock methods for divine, rare, and OP characters.",
+      "metaTitle": "Anime RNG Defense Units - All Characters, Rarities & Stats",
+      "metaDescription": "Complete Anime RNG Defense unit list with rarities, roles, base stats, and unlock methods covering divine, rare, and OP anime-style characters.",
+      "categoryLabel": "UNITS",
+      "whatIs": "What Are Anime RNG Defense Units?",
+      "whatIsDescription": "Units are the anime-style defenders you roll, place, and upgrade to protect your base. Each unit has a rarity, role such as DPS, support, or carry, and unique stats that determine how it performs against enemy waves. This category lists every unit without ranking them.",
+      "why": "Why Study the Unit List?",
+      "whySteps": {
+        "step1Title": "Know Every Rarity",
+        "step1Description": "Rarity tiers from common to divine decide a unit's base power and pull cost, so you can plan which rolls are worth your Crystals.",
+        "step2Title": "Pick the Right Role",
+        "step2Description": "Understanding each unit's role helps you build balanced teams with carry, support, and area units that cover every wave.",
+        "step3Title": "Unlock Method for Every Unit",
+        "step3Description": "Each entry explains how to obtain the unit—rolls, events, or boxes—so you can target the defenders your roster is missing."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Units"
+    },
+    "tiers": {
+      "title": "Anime RNG Defense Tier List",
+      "description": "Anime RNG Defense tier list ranking every unit from S to C by DPS, support value, and late-game performance.",
+      "metaTitle": "Anime RNG Defense Tier List - Best Units Ranked",
+      "metaDescription": "See the best Anime RNG Defense units ranked in a full S, A, B, C tier list by DPS, support value, and late-game performance.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What Is the Anime RNG Defense Tier List?",
+      "whatIsDescription": "The tier list ranks every unit by overall strength, separating the best DPS, support, and late-game carries from weaker options. Use it to decide which units to invest in and which to skip, separate from the pure unit info in the Units category.",
+      "why": "Why Trust This Tier List?",
+      "whySteps": {
+        "step1Title": "Clear S to C Ranks",
+        "step1Description": "Units are sorted into S, A, B, and C tiers so you can instantly spot the strongest defenders and the safest investments.",
+        "step2Title": "Role-Based Best Picks",
+        "step2Description": "Separate rankings for best DPS, best support, and best late-game units help you fill the exact role your team needs.",
+        "step3Title": "Updated With New Units",
+        "step3Description": "The list is refreshed as new divine and event units drop, keeping your build decisions based on the current meta."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Lists"
+    },
+    "reroll": {
+      "title": "Anime RNG Defense Reroll & Traits",
+      "description": "Reroll stats, traits, and luck in Anime RNG Defense: stat chips, trait pools, and luck boost stacking explained.",
+      "metaTitle": "Anime RNG Defense Reroll Guide - Stats, Traits & Luck",
+      "metaDescription": "Learn how to reroll stats and traits in Anime RNG Defense, stack luck boosts, and use universe and weekend luck for rarer unit pulls.",
+      "categoryLabel": "REROLL & TRAITS",
+      "whatIs": "What Is Rerolling in Anime RNG Defense?",
+      "whatIsDescription": "Rerolling lets you reset a unit's stats and traits to push for stronger rolls and better pulls. Combined with luck boosts like universe luck and weekend luck, it raises your odds of landing rare and divine units from every Crystal spent.",
+      "why": "Why Rerolling Matters",
+      "whySteps": {
+        "step1Title": "Better Unit Stats",
+        "step1Description": "Stat chips let you reroll a unit's core stats toward higher values, directly increasing damage, range, and survivability.",
+        "step2Title": "Stronger Trait Pools",
+        "step2Description": "Traits add powerful modifiers to your units; rerolling helps you chase the trait combinations that fit each defender's role.",
+        "step3Title": "Higher Luck, Rarer Pulls",
+        "step3Description": "Stacking universe luck and weekend luck boosts increases your chance of high-rarity rolls, making every Crystal more valuable."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Reroll Guides"
+    },
+    "items": {
+      "title": "Anime RNG Defense Items",
+      "description": "Anime RNG Defense items guide: scrolls, gems, crates, and reward sources for faster progression.",
+      "metaTitle": "Anime RNG Defense Items - Scrolls, Gems, Crates & Rewards",
+      "metaDescription": "Master every Anime RNG Defense item: how to use scrolls, earn gems, open crates, and claim rewards to speed up your progression.",
+      "categoryLabel": "ITEMS",
+      "whatIs": "What Are Anime RNG Defense Items?",
+      "whatIsDescription": "Items cover the scrolls, gems, crates, and rewards that fuel your progression. Scrolls upgrade units, gems fund rolls and rerolls, crates drop new units, and reward sources keep your resource income steady across every map.",
+      "why": "Why Learn the Item System?",
+      "whySteps": {
+        "step1Title": "Spend Scrolls Wisely",
+        "step1Description": "Knowing how and when to use scrolls lets you upgrade the right units first instead of wasting them on early carries.",
+        "step2Title": "Earn and Use Gems",
+        "step2Description": "Gems are your main reroll and pull currency; efficient gem farming keeps your rolls and stat resets running non-stop.",
+        "step3Title": "Maximize Crates and Rewards",
+        "step3Description": "Understanding crate drop pools and reward sources helps you target the units and items that close gaps in your roster."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Items"
+    },
+    "progression": {
+      "title": "Anime RNG Defense Progression",
+      "description": "Anime RNG Defense progression systems: prestige, unit index, AFK units, and pull strategy for long-term growth.",
+      "metaTitle": "Anime RNG Defense Progression - Prestige, Index & AFK Guide",
+      "metaDescription": "Understand Anime RNG Defense progression: prestige resets, completing the unit index, AFK units, and pull strategy for steady long-term growth.",
+      "categoryLabel": "PROGRESSION",
+      "whatIs": "What Is Anime RNG Defense Progression?",
+      "whatIsDescription": "Progression systems shape your long-term growth in Anime RNG Defense. Prestige resets boost your multipliers, the unit index rewards collection milestones, AFK units generate passive income, and a smart pull strategy keeps your roster expanding every session.",
+      "why": "Why Plan Your Progression?",
+      "whySteps": {
+        "step1Title": "Prestige for Multipliers",
+        "step1Description": "Prestige resets grant permanent multipliers that make every future run stronger, so timing them correctly accelerates overall growth.",
+        "step2Title": "Complete the Unit Index",
+        "step2Description": "The index rewards you for collecting units, turning your roster into a steady source of bonuses and unlocks.",
+        "step3Title": "AFK Income and Pull Strategy",
+        "step3Description": "AFK units earn resources while you are offline and a planned pull strategy ensures your Crystals go toward the units that advance your progression."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Progression Guides"
+    }
+  }
 }

@@ -1,0 +1,159 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Cajas de Anime RNG Defense: Tasas de Obtención, Rarezas y Guía de Apertura",
+  description: "Domina las cajas de Anime RNG Defense. Aprende cómo obtener Cajas Comunes, Raras y Épicas, comprende las tasas de obtención y optimiza tus potenciadores de suerte para conseguir unidades de nivel S.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/0f172a/38bdf8?text=Anime+RNG+Defense+Crates",
+  date: "2026-07-07",
+  author: "Equipo de la Wiki de Anime RNG Defense",
+  keywords: "Anime RNG Defense, cajas, boxes, guía, tasas de obtención, unidades"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Cajas de Anime RNG Defense**: También conocidas en el juego como "boxes", estos contenedores de recompensas son esenciales para desbloquear unidades de estilo anime.
+- **Rarezas de Cajas**: Los jugadores pueden adquirir **Cajas Comunes**, **Cajas Raras** y **Cajas Épicas** para potenciar instantáneamente su alineación defensiva.
+- **Métodos de Obtención**: Gana cajas canjeando códigos promocionales activos, completando mapas y alcanzando hitos específicos de oleadas.
+- **Estrategia Principal**: Acumula siempre potenciadores de suerte activos y pociones antes de abrir cajas de alto nivel para maximizar tus posibilidades de obtener personajes de nivel S.
+- **Impacto en la Progresión**: Las Cajas Épicas representan el nivel de recompensa de mayor valor disponible actualmente, proporcionando una ventaja masiva para la progresión en mapas de nivel medio.
+</Callout>
+
+<Section icon={Sparkles} title="Cajas de Anime RNG Defense: Mecánicas Explicadas">
+
+En el mundo de **Anime RNG Defense**, dominado por la suerte, las cajas (frecuentemente denominadas "Boxes" en la interfaz del juego) sirven como un catalizador principal para una progresión rápida de poder. Mientras que el ciclo principal de juego gira en torno a realizar tiradas (rolls) para obtener unidades de estilo anime usando tu contador de tiradas acumulado, las cajas proporcionan un atajo directo para adquirir grupos de rareza predeterminados sin depender únicamente de las tiradas base.
+
+Estas cajas omiten los tiempos de reutilización de las tiradas estándar, lo que te permite llenar rápidamente los espacios vacíos en tu equipo u obtener duplicados de alto valor para mejorar unidades. Entender cómo asegurar, ahorrar y abrir estas cajas es la línea divisoria entre tener dificultades en las primeras etapas y completar sin esfuerzo mapas complejos como el Cursed High School con temática de JJK.
+
+| Tipo de Caja | Fuente Principal | Enfoque de Rareza | Fase de Progresión |
+| :--- | :--- | :--- | :--- |
+| **Caja Común** | Códigos de inicio, oleadas iniciales | Unidades Comunes a Poco Comunes | Llenado de equipo inicial |
+| **Caja Rara** | Códigos de nivel medio, completar mapas | Unidades Raras a Épicas | Estabilización de escuadrón |
+| **Caja Épica** | Códigos de alto nivel, hitos de jefes | Unidades Épicas a Legendarias | Caza de unidades nivel S |
+
+<Callout type="tip" title="La Paciencia Tiene Recompensa">
+No abras tus cajas de alto nivel inmediatamente después de recibirlas. Guardarlas hasta que puedas activar una poción de suerte personal o de servidor asegura que tus tasas de obtención se inclinen fuertemente hacia unidades de alta rareza que cambian el juego.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Cómo Obtener Cada Nivel de Caja">
+
+Asegurar un flujo constante de **cajas de anime rng defense** requiere un enfoque múltiple. Mientras que los códigos promocionales activos ofrecen la inyección más rápida de cajas para jugadores nuevos y recurrentes, el farmeo constante de mapas es la única forma de mantener tu inventario de cajas durante sesiones de juego largas.
+
+### 1. Canje de Códigos Promocionales
+Los desarrolladores distribuyen frecuentemente cajas a través de códigos oficiales. Canjes como el código `INNOVATIONCITY` proporcionan un paquete inicial increíble que contiene múltiples cajas de los tres niveles principales.
+
+| Código Activo | Recompensa de Cristales | Cajas Incluidas | Requisito Mínimo |
+| :--- | :--- | :--- | :--- |
+| **INNOVATIONCITY** | **200 Cristales** | 10 Comunes / 5 Raras / 3 Épicas | Ninguno |
+| **RELEASE** | **250 Cristales** | 5 Cajas Comunes | Ninguno |
+| **CURSEDHIGHSCHOOL** | **200 Cristales** | 3 Dedos Malditos (Objetos de evento) | Ninguno |
+| **TYFORSUPPORT1** | **Recompensas Gratis** | Paquete de cajas de alto nivel | **10,000 Rolls** |
+
+### 2. Limpieza de Mapas e Hitos de Oleadas
+A medida que avanzas por diferentes mapas, completar hitos específicos de oleadas actúa como una fuente confiable de cajas. Las oleadas de jefes en mapas de mayor dificultad tienen una probabilidad fija de soltar Cajas Raras y Épicas tras una defensa exitosa.
+
+<CardGrid cols={3}>
+  <Card title="Granjas de Cajas Comunes">
+    - Se obtienen con frecuencia en mapas iniciales
+    - Conseguidas al limpiar la Oleada 10 en etapas básicas
+    - Ideal para farmear unidades de sacrificio para mejoras
+  </Card>
+  <Card title="Farmeo de Cajas Raras">
+    - Ganadas en limpiezas de mapas intermedios
+    - Otorgadas al derrotar a jefes de etapa media
+    - Proporcionan unidades DPS estables para tu equipo
+  </Card>
+  <Card title="Hitos de Cajas Épicas">
+    - Reservadas para limpiezas de mapas en modo difícil
+    - Caen de los jefes finales en mapas avanzados
+    - Esenciales para obtener unidades "carry" de juego tardío
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Aviso de Límite de Inventario">
+Vigila tu capacidad de almacenamiento. Si tu inventario de unidades está lleno, abrir cajas fallará o se desperdiciará la caja sin otorgar la unidad. ¡Limpia siempre las unidades duplicadas de baja rareza antes de comenzar una sesión de apertura!
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Estrategia de Apertura de Cajas Paso a Paso">
+
+Para extraer el máximo valor de tus **cajas de anime rng defense**, debes seguir una secuencia de apertura optimizada. Simplemente hacer clic en "Abrir" en cuanto recibes una caja es un gran desperdicio de potencial. Sigue este diseño táctico experto para asegurar mejores unidades:
+
+<Steps>
+  <Step num="1" title="Canjea Todos los Códigos de Cajas Activos">
+    Introduce códigos como `INNOVATIONCITY` y `RELEASE` en el menú de códigos para crear una reserva inicial sustancial de cajas.
+  </Step>
+  <Step num="2" title="Activa tus Potenciadores de Suerte">
+    Antes de tocar una sola caja, consume cualquier poción de suerte o potenciador de suerte activo en tu inventario. Esto cambia significativamente las tablas internas de RNG a tu favor.
+  </Step>
+  <Step num="3" title="Abre Primero las Cajas Comunes">
+    Abre primero tus Cajas Comunes para completar tu equipo base. Esto te permite identificar qué elementos o posiciones le faltan a tu equipo.
+  </Step>
+  <Step num="4" title="Cubre Huecos con Cajas Raras y Épicas">
+    Usa tus Cajas Raras y Épicas para apuntar a roles específicos, reemplazando unidades iniciales débiles con atacantes de alta rareza o especialistas en control de masas.
+  </Step>
+</Steps>
+
+<Callout type="success" title="La Regla de Oro del RNG">
+Nunca abras Cajas Épicas cuando tu multiplicador de suerte esté en su valor base de 1x. Espera siempre a un evento de suerte o ahorra suficientes cristales para comprar una poción de suerte de alto grado en la tienda.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Optimizando las Recompensas de Cajas para la Creación de Equipos">
+
+Abrir cajas es solo la mitad de la batalla; el verdadero desafío radica en utilizar esas unidades para construir una defensa impenetrable. Las unidades obtenidas de cajas de alto nivel deben integrarse inmediatamente en una composición de equipo equilibrada.
+
+### Tabla de Integración de Unidades Obtenidas
+| Rareza de Unidad | Mejor Rol de Equipo | Prioridad de Mejora | Colocación Recomendada |
+| :--- | :--- | :--- | :--- |
+| **Épica / Legendaria** | Carry DPS Principal | **Prioridad Máxima** | Rectas largas y sinuosas para maximizar el alcance |
+| **Rara** | Utilidad / Lentitud / Apoyo | Prioridad Media | Cerca de puntos de estrangulamiento o entradas |
+| **Común / Poco Común** | Defensa de Oleadas Iniciales | Prioridad Baja (Reemplazar pronto) | Adyacente a la base para protección contra fugas |
+
+### Lista de Verificación de Sinergia de Equipo
+Un equipo perfecto utilizando unidades de cajas debe cubrir tres pilares defensivos esenciales:
+
+<Checklist
+  id="team-synergy-goals"
+  title="Hitos Esenciales del Escuadrón:"
+  items={[
+    "Despliega al menos una unidad Épica con gran daño en área (AOE) para eliminar grupos grandes [1.2.1]",
+    "Coloca una unidad Rara de alto DPS a un solo objetivo para enfocar a los jefes",
+    "Utiliza unidades Comunes baratas como bloqueadores iniciales mientras ahorras dinero para mejoras",
+    "Asegúrate de que todas las unidades activas suban de nivel usando duplicados obtenidos de Cajas Comunes"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas Frecuentes (FAQ)">
+
+<FAQ items={[
+  {
+    question: "¿Cuál es la diferencia entre hacer tiradas (rolling) y abrir cajas de anime rng defense?",
+    answer: "Hacer tiradas es la mecánica estándar y continua basada en la suerte que utiliza tu contador de tiradas activo. Abrir cajas (boxes) omite los temporizadores de tirada estándar y garantiza una unidad de un grupo de rareza específico, como Común, Rara o Épica."
+  },
+  {
+    question: "¿Afectan las pociones de suerte a las tasas de obtención de las unidades dentro de las cajas?",
+    answer: "Sí. Activar pociones de suerte o potenciadores de servidor mejora la probabilidad de obtener la rareza más alta posible de cualquier caja que abras. Acumula siempre tus potenciadores antes de abrir Cajas Épicas."
+  },
+  {
+    question: "¿Puedo farmear Cajas Raras y Épicas sin gastar Robux?",
+    answer: "Absolutamente. Puedes ganarlas gratis canjeando códigos promocionales como INNOVATIONCITY, o completando con éxito mapas de alta dificultad y derrotando oleadas de jefes."
+  },
+  {
+    question: "¿Qué debo hacer con las unidades duplicadas obtenidas de las Cajas Comunes?",
+    answer: "Las unidades duplicadas no deben descartarse. Úsalas como material de mejora para subir de nivel a tus unidades principales Épicas y Legendarias, aumentando drásticamente su daño y alcance."
+  }
+]} />
+
+</Section>
