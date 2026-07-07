@@ -182,7 +182,7 @@
         {
           "step": 4,
           "title": "Upgrade your team during battle",
-          "description": "Upgrades make your units stronger in battle, helping them handle later waves and tougher enemies.",
+          "description": "Upgrades make your units stronger in battle, helping them handle later waves and harder enemies.",
           "tip": "Upgrade core units first instead of spreading resources across weak placeholders."
         },
         {
@@ -374,7 +374,7 @@
     "animeRngDefenseLuckAndRolling": {
       "eyebrow": "Luck & Rolling",
       "title": "Anime RNG Defense Luck and Rolling Guide",
-      "subtitle": "Rolling is one of the main ways to unlock stronger units. Luck boosts matter because they improve your chance of getting rarer units for tougher battles.",
+      "subtitle": "Rolling is one of the main ways to unlock stronger units. Luck boosts matter because they improve your chance of getting rarer units for harder battles.",
       "intro": "Anime RNG Defense mixes RNG and tower-defense strategy. Players roll to unlock anime-style units, boost luck for rarer units, then use those units to defend maps and defeat waves.",
       "displayType": "accordion",
       "items": [
@@ -388,7 +388,7 @@
         },
         {
           "question": "When should players roll more?",
-          "answer": "Roll more when your current units cannot clear waves fast enough, when enemies keep reaching your base, or when you need stronger options before entering tougher maps."
+          "answer": "Roll more when your current units cannot clear waves fast enough, when enemies keep reaching your base, or when you need stronger options before entering harder maps."
         },
         {
           "question": "When should players upgrade instead of rolling?",
