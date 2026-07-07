@@ -52,696 +52,388 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Anime RNG Defense Gameplay",
+    "description": "Roll anime-style units, place defenders, clear enemy waves, upgrade your team, boost luck, and defend your base across every map in this Roblox anime RNG tower defense game."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Anime RNG Defense",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need to roll, defend, and climb every map in Anime RNG Defense",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Ticket",
+        "title": "Anime RNG Defense Codes",
+        "description": "Active codes, rewards, and the fastest redeem steps"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "GraduationCap",
+        "title": "Anime RNG Defense Beginner Guide",
+        "description": "Roll units, place defenders, clear waves, and upgrade"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Crown",
+        "title": "Anime RNG Defense Unit Tier List",
+        "description": "Rank units by wave-clearing power and progression value"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Boxes",
+        "title": "Anime RNG Defense Units & Rarities",
+        "description": "How rolling, Boxes, Crystals, and rarity shape your lineup"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Map",
+        "title": "Anime RNG Defense Maps Guide",
+        "description": "Enter maps, read enemy paths, and protect your base"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Target",
+        "title": "Anime RNG Defense Best Team",
+        "description": "Build a stronger lineup with rare units and smart placement"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Dices",
+        "title": "Anime RNG Defense Luck Guide",
+        "description": "Rolling, luck boosts, and chasing rarer anime units"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Bell",
+        "title": "Anime RNG Defense Updates",
+        "description": "Update tags, code drops, group rewards, and community links"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "animeRngDefenseCodes": {
+      "eyebrow": "Free Rewards",
+      "title": "Anime RNG Defense Codes",
+      "subtitle": "Redeem active Anime RNG Defense codes for Crystals, Common Boxes, Rare Boxes, Epic Boxes, Cursed Fingers, and other free rewards.",
+      "intro": "Codes are the fastest way to get a stronger start in Anime RNG Defense. Use them before rolling heavily, because Crystals and Boxes help you unlock more anime-style units and build a better defense lineup faster.",
+      "displayType": "code-cards",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "code": "TYFORSUPPORT1",
+          "status": "active",
+          "reward": "Free Rewards",
+          "requirement": "Requires at least 10,000 Rolls",
+          "bestFor": "Experienced players who already have a large roll count"
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "code": "UPDATE2",
+          "status": "active",
+          "reward": "250 Crystals",
+          "requirement": "None listed",
+          "bestFor": "Extra rolls and faster early progression"
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "code": "CURSEDHIGHSCHOOL",
+          "status": "active",
+          "reward": "200 Crystals and 3 Cursed Fingers",
+          "requirement": "None listed",
+          "bestFor": "Event-style rewards and JJK-themed progression"
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "code": "INNOVATIONCITY",
+          "status": "active",
+          "reward": "200 Crystals, 10 Common Boxes, 5 Rare Boxes, and 3 Epic Boxes",
+          "requirement": "None listed",
+          "bestFor": "Best all-around starter reward bundle"
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "code": "UPDATE1",
+          "status": "active",
+          "reward": "250 Crystals",
+          "requirement": "None listed",
+          "bestFor": "More rolls after the first update"
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "code": "RELEASE",
+          "status": "active",
+          "reward": "250 Crystals and 5 Common Boxes",
+          "requirement": "None listed",
+          "bestFor": "New players starting their first lineup"
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "animeRngDefenseBeginnerGuide": {
+      "eyebrow": "Starter Guide",
+      "title": "Anime RNG Defense Beginner Guide",
+      "subtitle": "Learn the core loop: redeem codes, roll units, place defenders, clear waves, upgrade your team, and protect the base.",
+      "intro": "Anime RNG Defense mixes luck-based unit rolling with tower defense strategy. The basic goal is simple: get units, place them well, survive enemy waves, and keep upgrading until your lineup can clear harder maps.",
+      "displayType": "step-by-step",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "step": 1,
+          "title": "Redeem codes first",
+          "description": "Start with codes such as RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY, and CURSEDHIGHSCHOOL to collect Crystals, Boxes, and event rewards before spending time on rolls.",
+          "tip": "Use code rewards before grinding so your first lineup forms faster."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "step": 2,
+          "title": "Roll for anime-style units",
+          "description": "The game uses RNG rolls to unlock units. Better luck and better reward boxes give you more chances to pull stronger defenders.",
+          "tip": "Do not judge a lineup by rarity only; wave clear and placement value matter too."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "step": 3,
+          "title": "Enter maps and clear enemy waves",
+          "description": "After building a starter team, enter maps and focus on clearing waves while protecting your base from enemies.",
+          "tip": "Place your most reliable damage units where they can hit enemies for the longest time."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "step": 4,
+          "title": "Upgrade your team during battle",
+          "description": "Upgrades make your units stronger in battle, helping them handle later waves and tougher enemies.",
+          "tip": "Upgrade core units first instead of spreading resources across weak placeholders."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "step": 5,
+          "title": "Boost luck before serious rolling",
+          "description": "Luck boosts increase your chance of getting rarer units, which is important because every roll can change your defense.",
+          "tip": "Use boosts when you are ready to roll many times, not for one or two random pulls."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "step": 6,
+          "title": "Build a balanced lineup",
+          "description": "A good team should include units that can clear groups, deal strong damage, and hold waves long enough to protect the base.",
+          "tip": "Replace weak units as soon as you pull better rarity or better damage options."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
+    "animeRngDefenseUnitTierList": {
+      "eyebrow": "Best Units",
+      "title": "Anime RNG Defense Unit Tier List",
+      "subtitle": "Rank units by practical value: wave-clearing strength, rarity value, upgrade efficiency, and how much they help progression.",
+      "intro": "The strongest Anime RNG Defense units are the ones that help you clear waves consistently, not just the rarest-looking pulls. Prioritize units that cover long paths, delete groups, scale well with upgrades, or carry your team through new maps.",
+      "displayType": "tier-grid",
+      "items": [
         {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
+          "tier": "S",
+          "label": "Best progression units",
+          "unitType": "High-rarity damage dealers and strong wave clearers",
+          "whyItRanksHere": "These are the most valuable pulls because they can carry early and mid-game maps, handle larger waves, and deserve your first upgrades.",
+          "bestUse": "Main carry slot, first upgrade priority, harder map attempts"
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
+          "tier": "A",
+          "label": "Strong lineup units",
+          "unitType": "Rare and Epic Box units with reliable damage or wide coverage",
+          "whyItRanksHere": "These units are strong enough to stay in your active lineup while you continue rolling for better options.",
+          "bestUse": "Core defense slots, backup carries, stable wave clearing"
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
+          "tier": "B",
+          "label": "Good starter units",
+          "unitType": "Common Box units and early rolls with usable damage",
+          "whyItRanksHere": "These units are useful at the start, especially after redeeming RELEASE or INNOVATIONCITY, but should be replaced when stronger pulls arrive.",
+          "bestUse": "First maps, early wave defense, temporary team filler"
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
+          "tier": "C",
+          "label": "Low-priority units",
+          "unitType": "Duplicate pulls or weak early units with poor scaling",
+          "whyItRanksHere": "These units can help fill empty slots, but they are not worth heavy upgrades once you have Rare or Epic options.",
+          "bestUse": "Short-term placement only"
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+    "animeRngDefenseUnitsAndRarities": {
+      "eyebrow": "Units & Rarity",
+      "title": "Anime RNG Defense Units and Rarities",
+      "subtitle": "Understand how rolling, Boxes, Crystals, and rarity work together when building your defense team.",
+      "intro": "Anime RNG Defense is built around rolling for anime-style units, then using those units to clear waves and defend your base. Rarer units matter because they usually give better progression value, but the best lineup still depends on placement, upgrades, and wave-clearing power.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "name": "Crystals",
+          "type": "Core reward currency",
+          "howToGet": "Available from codes such as RELEASE, UPDATE1, UPDATE2, CURSEDHIGHSCHOOL, and INNOVATIONCITY",
+          "whyItMatters": "Crystals help players progress faster by giving more resources for the rolling and reward loop.",
+          "playerTip": "Redeem Crystal codes before doing a longer roll session."
+        },
+        {
+          "name": "Common Boxes",
+          "type": "Starter reward box",
+          "howToGet": "Available from RELEASE and INNOVATIONCITY",
+          "whyItMatters": "Common Boxes are useful for filling your first team slots and getting early defenders quickly.",
+          "playerTip": "Use Common Box units as temporary starters, then replace weaker pulls as your rarity improves."
+        },
+        {
+          "name": "Rare Boxes",
+          "type": "Mid-value reward box",
+          "howToGet": "Available from INNOVATIONCITY",
+          "whyItMatters": "Rare Boxes give better lineup potential than basic starter rewards and are useful for early map progression.",
+          "playerTip": "Prioritize Rare Box pulls that improve wave clear or single-target damage."
+        },
+        {
+          "name": "Epic Boxes",
+          "type": "High-value reward box",
+          "howToGet": "Available from INNOVATIONCITY",
+          "whyItMatters": "Epic Boxes are the most important box reward listed in current code rewards and should be checked first when improving your team.",
+          "playerTip": "Upgrade Epic-quality carries before spending heavily on weaker units."
+        },
+        {
+          "name": "Cursed Fingers",
+          "type": "Event-style reward item",
+          "howToGet": "Available from CURSEDHIGHSCHOOL",
+          "whyItMatters": "Cursed Fingers are tied to the current JJK-themed reward pool and are useful for event progression.",
+          "playerTip": "Claim CURSEDHIGHSCHOOL before focusing on JJK update content."
+        },
+        {
+          "name": "Rarer Units",
+          "type": "Main progression goal",
+          "howToGet": "Roll units and boost luck for better chances at stronger pulls",
+          "whyItMatters": "Rarer units can change your defense and help you clear more difficult enemy waves.",
+          "playerTip": "Use luck boosts before big rolling sessions to improve your chance at stronger units."
+        }
+      ]
+    },
+    "animeRngDefenseMapsAndWaves": {
+      "eyebrow": "Maps & Waves",
+      "title": "Anime RNG Defense Maps and Waves Guide",
+      "subtitle": "Enter maps, clear enemy waves, and keep your base alive. This guide explains the basic stage loop players should follow before pushing harder maps.",
+      "intro": "Anime RNG Defense uses a tower-defense loop: roll for anime-style units, enter maps, place defenders, clear waves, upgrade your team, and protect the base until the stage is cleared.",
+      "displayType": "step-by-step",
+      "items": [
+        {
+          "step": 1,
+          "title": "Prepare Your Units Before Entering",
+          "description": "Roll to unlock anime-style units before starting a map. A stronger roster gives you more options when enemies begin moving toward the base.",
+          "goal": "Have enough usable defenders ready before the first wave starts."
+        },
+        {
+          "step": 2,
+          "title": "Enter a Map and Watch the Enemy Path",
+          "description": "Different maps are part of the core progression loop. After entering a map, check where enemies travel and place your first units where they can attack for the longest time.",
+          "goal": "Use the path layout to get more value from every placed unit."
+        },
+        {
+          "step": 3,
+          "title": "Clear Waves Without Letting Enemies Reach Base",
+          "description": "Each stage sends waves of enemies toward your base. The main objective is to defeat the enemies before too many pass through your defense.",
+          "goal": "Protect the base while surviving every wave."
+        },
+        {
+          "step": 4,
+          "title": "Upgrade During Battle",
+          "description": "Upgrading your team makes units stronger in battle. Use upgrades when your current damage is not enough to stop later waves.",
+          "goal": "Turn early units into stronger wave-clear tools."
+        },
+        {
+          "step": 5,
+          "title": "Repeat Maps With Better Rolls",
+          "description": "Every roll can change your defense. If a map feels too hard, return with rarer units, better upgrades, and a stronger lineup.",
+          "goal": "Use RNG progress and team upgrades to defeat harder maps."
+        }
+      ]
+    },
+    "animeRngDefenseBestTeamBuild": {
+      "eyebrow": "Team Build",
+      "title": "Anime RNG Defense Best Team Build",
+      "subtitle": "Build a stronger lineup by combining rare units, upgraded units, and smart placement. The best team is not only about rarity; it also needs enough damage and map coverage.",
+      "intro": "Anime RNG Defense is built around rolling units and using strategy to win battles. A good team should include your rarest available units, upgraded defenders, and placements that protect the base from every wave.",
+      "displayType": "card-list",
+      "items": [
+        {
+          "title": "Rare Unit Core",
+          "role": "Main damage",
+          "description": "Use your rarest rolled units as the center of the team. Luck boosts help you chase stronger units, and rare pulls usually give your lineup better long-term potential.",
+          "bestFor": "Harder waves and stronger map pushes"
+        },
+        {
+          "title": "Upgraded Defender Slot",
+          "role": "Reliable wave clear",
+          "description": "Keep upgraded units in the lineup even if they are not your newest pull. A powered-up unit can often perform better than a fresh unit with no upgrades.",
+          "bestFor": "Stable clears and safer early waves"
+        },
+        {
+          "title": "Early Placement Unit",
+          "role": "First-wave control",
+          "description": "Place a dependable unit early so enemies do not reach the base while you prepare stronger defenders. Early control gives the rest of your team time to scale.",
+          "bestFor": "Opening waves and base protection"
+        },
+        {
+          "title": "Long-Path Damage Setup",
+          "role": "Map efficiency",
+          "description": "Place units where enemies stay in range longer. Good placement can make the same unit deal more total damage across a full wave.",
+          "bestFor": "Maps with winding paths or longer enemy routes"
+        },
+        {
+          "title": "Upgrade Priority Plan",
+          "role": "Power scaling",
+          "description": "Upgrade the units that are already carrying the defense instead of spreading resources too thin. Focused upgrades help your best defenders handle later waves.",
+          "bestFor": "Consistent progression"
+        },
+        {
+          "title": "Reroll Improvement Slot",
+          "role": "Team growth",
+          "description": "Keep rolling for better anime-style units when your current team starts struggling. One strong pull can change your defense and make difficult maps easier.",
+          "bestFor": "Replacing weak units over time"
+        }
+      ]
+    },
+    "animeRngDefenseLuckAndRolling": {
+      "eyebrow": "Luck & Rolling",
+      "title": "Anime RNG Defense Luck and Rolling Guide",
+      "subtitle": "Rolling is one of the main ways to unlock stronger units. Luck boosts matter because they improve your chance of getting rarer units for tougher battles.",
+      "intro": "Anime RNG Defense mixes RNG and tower-defense strategy. Players roll to unlock anime-style units, boost luck for rarer units, then use those units to defend maps and defeat waves.",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+      "items": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "What does rolling do in Anime RNG Defense?",
+          "answer": "Rolling unlocks anime-style units. These units become the core of your defense, so rolling is the main way to improve your team over time."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Why is luck important?",
+          "answer": "Luck boosts help players chase rarer units. Since rarer units can improve your lineup, luck is useful when your current team starts struggling against harder waves."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "When should players roll more?",
+          "answer": "Roll more when your current units cannot clear waves fast enough, when enemies keep reaching your base, or when you need stronger options before entering tougher maps."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "When should players upgrade instead of rolling?",
+          "answer": "Upgrade when you already have useful units placed and need more battle power right away. Rolling improves your roster, while upgrading makes your current team stronger during fights."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "question": "How does rolling connect with map progression?",
+          "answer": "Every roll can change your defense. Better units make it easier to clear enemy waves, protect the base, and defeat more maps."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "What starter code should players check?",
+          "answer": "Players can use the code RELEASE from the official Roblox game description. Code rewards can help new players begin progressing faster."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
+    "animeRngDefenseUpdatesAndDiscord": {
+      "eyebrow": "Updates & Community",
+      "title": "Anime RNG Defense Updates and Discord",
+      "subtitle": "Track update tags, code drops, group rewards, and official community links. Returning players should check this section for new rewards and game changes.",
+      "intro": "The official Anime RNG Defense Roblox page lists the current game title, code information, group reward reminder, supported devices, and community links. Players should use the Roblox page, Mera group, and Discord invite as the main sources for updates.",
       "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+      "items": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "What is the current official game page title?",
+          "answer": "The official Roblox page title is [JJK⛩️] Anime RNG Defense, showing that the game page is using an active update tag."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "What active code is shown on the official Roblox page?",
+          "answer": "The official Roblox description shows the code RELEASE."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "Where should players check for more codes?",
+          "answer": "The official game description tells players to join the group for rewards, updates, and more codes. The Mera Roblox community and Anime RNG Defense Discord invite are the main community links."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "What rewards does the official page mention?",
+          "answer": "The official page mentions group rewards, updates, and more codes. Players should check the Roblox group and Discord when new updates arrive."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "question": "What platforms does Anime RNG Defense support?",
+          "answer": "The official Roblox description says the game is available on Desktop, Mobile, Tablet, and Console."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "question": "What should returning players check first?",
+          "answer": "Returning players should check the Roblox game page for the newest title tag, the current code, the Mera group for rewards, and the Discord invite for community updates."
         }
       ]
     }
@@ -749,31 +441,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Anime RNG Defense",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Anime RNG Defense?",
+        "answer": "Anime RNG Defense is a Roblox anime RNG tower defense game. You roll for anime-style units, place them as defenders, clear enemy waves, upgrade your team, and protect your base across different maps."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I redeem codes in Anime RNG Defense?",
+        "answer": "To redeem codes in Anime RNG Defense, open the game, find the code redemption menu, enter an active code such as RELEASE, UPDATE1, UPDATE2, INNOVATIONCITY, or CURSEDHIGHSCHOOL, and claim your Crystals, Boxes, and event rewards."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What are Crystals and Boxes used for in Anime RNG Defense?",
+        "answer": "In Anime RNG Defense, Crystals and Boxes come from codes and rewards. They help you roll more anime-style units and build a stronger defense lineup faster, so redeem codes before serious rolling."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How does rolling and luck work in Anime RNG Defense?",
+        "answer": "Rolling is the main way to unlock units in Anime RNG Defense. Luck boosts improve your chance of pulling rarer units, which is important when your current team starts struggling against harder waves."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What is the best way to build a team in Anime RNG Defense?",
+        "answer": "The best Anime RNG Defense team combines your rarest rolled units, upgraded defenders, and smart placement. Focus damage where enemies stay in range the longest, and upgrade core carries before spreading resources."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where can I play Anime RNG Defense and get updates?",
+        "answer": "You can play Anime RNG Defense on the official Roblox game page. For new codes, update tags, and group rewards, check the Roblox game page, the Mera group, and the official Discord invite."
       }
     ]
   },
@@ -798,126 +490,5 @@
     "copyright": "© 2026 Anime RNG Defense Wiki. Not affiliated with the developers of Anime RNG Defense or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
-    }
-  }
+  "pages": {}
 }

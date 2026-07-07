@@ -28,6 +28,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // 首页工具卡图标（Anime RNG Defense 8 卡）
+  Ticket: LucideIcons.Ticket,
+  GraduationCap: LucideIcons.GraduationCap,
+  Crown: LucideIcons.Crown,
+  Boxes: LucideIcons.Boxes,
+  Map: LucideIcons.Map,
+  Target: LucideIcons.Target,
+  Dices: LucideIcons.Dices,
+  Bell: LucideIcons.Bell,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,
