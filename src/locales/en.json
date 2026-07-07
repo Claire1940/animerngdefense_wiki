@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Anime RNG Defense Wiki - Codes, Units & Tier List",
+      "description": "Anime RNG Defense Wiki with codes, unit rolls, traits, maps, team builds, upgrades, tier lists, beginner tips, and update notes for Roblox players.",
+      "keywords": "Anime RNG Defense, Roblox, codes, units, tier list, traits, maps, team builds",
+      "ogTitle": "Anime RNG Defense Wiki - Codes, Units & Tier List",
+      "ogDescription": "Anime RNG Defense Wiki with codes, unit rolls, traits, maps, team builds, upgrades, tier lists, beginner tips, and update notes for Roblox players.",
+      "twitterTitle": "Anime RNG Defense Wiki - Codes, Units & Tier List",
+      "twitterDescription": "Roll units, defend your base, and climb every map in Anime RNG Defense on Roblox. Codes, tier lists, builds, and beginner tips."
     }
   },
   "nav": {
@@ -21,7 +21,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Anime RNG Tower Defense",
+    "title": "Anime RNG Defense Wiki",
+    "description": "Roll anime-style units, defend your base, clear enemy waves, upgrade your team, boost luck, and build the strongest lineup across every map.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "210.7K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "1.6K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "RELEASE",
+        "label": "Official Code"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Jul 5, 2026",
+        "label": "Latest Update"
       }
     }
   },
@@ -785,26 +785,24 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Defend Your Base?",
+    "description": "Watch Anime RNG Defense gameplay and jump into the action on Roblox. Roll units, upgrade your luck, and clear every map!",
+    "joinCommunity": "Watch Gameplay",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Anime RNG Defense Wiki",
+    "description": "Your complete resource hub for Anime RNG Defense codes, units, tier lists, maps, builds, and beginner tips for Roblox players.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Play on Roblox",
+    "youtube": "Watch Gameplay",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Anime RNG Defense Wiki. Not affiliated with the developers of Anime RNG Defense or Roblox Corporation.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
