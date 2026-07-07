@@ -69,27 +69,27 @@
     "subtitle": "Segala yang kamu butuhkan untuk roll, bertahan, dan menaklukkan setiap peta di Anime RNG Defense",
     "cards": [
       {
-        "icon": "Tiket",
+        "icon": "Ticket",
         "title": "Kode Anime RNG Defense",
         "description": "Kode aktif, hadiah, dan langkah penukaran tercepat"
       },
       {
-        "icon": "Topi Wisuda",
+        "icon": "GraduationCap",
         "title": "Panduan Pemula Anime RNG Defense",
         "description": "Roll unit, tempatkan defender, selesaikan gelombang, dan tingkatkan"
       },
       {
-        "icon": "Mahkota",
+        "icon": "Crown",
         "title": "Tier List Unit Anime RNG Defense",
         "description": "Urutan unit berdasarkan kekuatan penyelesaian gelombang dan nilai progres"
       },
       {
-        "icon": "Kotak",
+        "icon": "Boxes",
         "title": "Unit & Kelangkaan Anime RNG Defense",
         "description": "Bagaimana rolling, Kotak, Crystal, dan kelangkaan membentuk barisanmu"
       },
       {
-        "icon": "Peta",
+        "icon": "Map",
         "title": "Panduan Peta Anime RNG Defense",
         "description": "Masuki peta, baca jalur musuh, dan lindungi markasmu"
       },
@@ -99,12 +99,12 @@
         "description": "Bangun barisan yang lebih kuat dengan unit langka dan penempatan yang cerdas"
       },
       {
-        "icon": "Dadu",
+        "icon": "Dices",
         "title": "Panduan Keberuntungan Anime RNG Defense",
         "description": "Rolling, peningkatan keberuntungan, dan mengejar unit anime yang lebih langka"
       },
       {
-        "icon": "Lonceng",
+        "icon": "Bell",
         "title": "Update Anime RNG Defense",
         "description": "Tag update, rilis kode, hadiah grup, dan tautan komunitas"
       }
